@@ -12,7 +12,8 @@ tags:
     - Jupyter Server
     
 ---
-### Jupyter on remote Linux server
+
+# Jupyter on remote Linux server
 ------------------------------------------------
 *Jupyter is an online service that all interactive computing using different programming languages across multiple users.*
 ##### Jupyter Notebook
@@ -31,7 +32,7 @@ tags:
     - customization and preference setting 
     - good for demo / 
 
-##### JupyterHub 
+### JupyterHub 
 [JupyterHub](hhttp://usdl646.spe.sony.com:8888/hub/login)
 
 - admin and general user
@@ -40,7 +41,8 @@ tags:
 - users with third party and connection to github, sql, tableau etc. 
 
 
-### Web-automation for data scraping: 
+# Web-automation for data scraping: 
+------------------------------------------------------------
 [Code](http://localhost:8888/notebooks/Documents/web_automation.ipynb)
 - easy to run and user frinedly 
 - really convenient and can work on big data 
