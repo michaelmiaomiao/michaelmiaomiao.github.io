@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      JupyterHub & Python Web-scraping DEMO
-subtitle:   @SPE  
+subtitle:   SPE  
 date:       2019-08-08
 author:     JS
 header-img: 
@@ -10,4 +10,5 @@ tags:
     - Python
     - Linux
     - Jupyter Server
+    
 ---
