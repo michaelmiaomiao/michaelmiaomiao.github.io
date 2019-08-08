@@ -21,7 +21,7 @@ tags:
 - Accessibility & Security
     - access anywhere with internect connection 
     - username/password protect and secure files remotely [password protect](http://localhost:8888/login)
-    - configure network, authtication, etc. 
+    - configure network, authtication, etc.  [config](https://github.com/michaelmiaomiao/SPE/blob/master/jupyter_notebook_config.py)
 - Work Efficiency
 	- file transformation, share and edit 
     - work as individuals / groups 
