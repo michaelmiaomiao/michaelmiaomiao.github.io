@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      
-subtitle:   SPE  
+title:      JupyterHub & Python Demo.md
+subtitle:     
 date:       2019-08-08
-author:     JS
+author:     Jiashu Miao
 header-img: 
 catalog: true
 tags:
