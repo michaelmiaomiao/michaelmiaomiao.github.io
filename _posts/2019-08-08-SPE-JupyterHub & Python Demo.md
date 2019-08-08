@@ -33,7 +33,7 @@ tags:
     - good for demo / 
 
 ### JupyterHub 
-[JupyterHub](hhttp://usdl646.spe.sony.com:8888/hub/login)
+[JupyterHub](http://usdl646.spe.sony.com:8888/hub/login)
 
 - admin and general user
 - username folder / project fold 
