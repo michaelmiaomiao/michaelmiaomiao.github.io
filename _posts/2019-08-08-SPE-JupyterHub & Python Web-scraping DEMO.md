@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      JupyterHub & Python Web-scraping DEMO
+title:      
 subtitle:   SPE  
 date:       2019-08-08
 author:     JS
