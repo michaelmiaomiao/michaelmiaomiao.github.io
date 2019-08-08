@@ -20,7 +20,7 @@ tags:
 [JupyterNotebook](http://localhost:8888/login)
 - Accessibility & Security
     - access anywhere with internect connection 
-    - username/password protect and secure files remotely
+    - username/password protect and secure files remotely [password protect](http://localhost:8888/login)
     - configure network, authtication, etc. 
 - Work Efficiency
 	- file transformation, share and edit 
