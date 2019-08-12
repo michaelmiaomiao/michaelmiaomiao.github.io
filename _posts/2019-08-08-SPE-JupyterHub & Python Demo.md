@@ -39,7 +39,8 @@ tags:
 - username folder / project fold [file name](http://usdl646.spe.sony.com:8888/user/tom/terminals/1)
 - create/ban users generation (without neet to create system users) 
 - users with third party and connection to github, sql, tableau etc. 
-- ![img](https://jupyterhub.readthedocs.io/en/stable/_images/jhub-fluxogram.jpeg)
+
+![img](https://jupyterhub.readthedocs.io/en/stable/_images/jhub-fluxogram.jpeg)
 
 # Web-automation for data scraping: 
 ------------------------------------------------------------
