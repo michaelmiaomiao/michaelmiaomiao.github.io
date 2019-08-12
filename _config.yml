@@ -11,7 +11,7 @@ github_repo: "https://github.com/michaelmiaomiao/michaelmiaomiao.github.io.git" 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Go Bruins, UCLA class of 2020!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
