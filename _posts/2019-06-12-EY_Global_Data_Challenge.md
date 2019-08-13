@@ -61,9 +61,10 @@ Overview -- Exloration -- Questioning -- Data Inspection -- Preprocessing (clean
 There are 37 models I have built and featured using R and Python based on the running time and hands-on application during this competition, and they are (not limited to): 
 
 
-models:        |                 | 
--------------- | --------------- | ---------------
+  models:           |                | 
+------------------- | -------------- | ---------------
 Logistic Regression | Naive Bayesian | Regression Trees & Baggings
+SVM | Random Forest | Gboosting 
     
 
 - Sample submission
