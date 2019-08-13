@@ -45,6 +45,9 @@ y_exit | Double | Exit y coordinate (cartesian projected position)
 dimemsion: 67065 * 9
     
 
+- The challenge objective 
+
+I would like to predict how many people are in the city center between 15:00 and 16:00. The test dataset contains a number of devices where the trajectories after 15:00 have been removed. All but one: After 15:00, you will find one last trajectory, with (1) entry location, (2) entry time and an exit time that is between 15:00 and 16:00. But the exit point has been removed.
 
 
 
