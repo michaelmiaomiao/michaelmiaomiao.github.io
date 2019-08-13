@@ -54,6 +54,8 @@ After I estimate the position of each target, I have to classify that point base
 
 ![](img/post-data-path.jpg)
 
+- Sample submission
+
 
 
 
