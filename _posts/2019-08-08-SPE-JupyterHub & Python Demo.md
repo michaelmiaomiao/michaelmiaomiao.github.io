@@ -64,7 +64,7 @@ import numpy
 from selenium import webdriver
 import pandas as pd;
 output_final_final=pd.DataFrame()
-```
+
 # modules neccesary for web-automation.
 options = webdriver.ChromeOptions()
 options.add_argument('--ignore-certificate-errors')
@@ -148,4 +148,5 @@ print('\nData Cleansing Successful.')
 ## save to the path you would choose.
 export1_csv =output_final.to_csv ('\Users\JMiao\Documents\demodata\extracted_data.csv', index = None, header=True)
 print("Cleaned Data Saved.")   
+```
  
