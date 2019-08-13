@@ -87,6 +87,83 @@ The submissions are csv files containing the information of trajectory_id with c
      - Conduct more cross validations. 
 
 
+- Reference files:
+
+[EY DATA CHALLENGE](https://github.com/michaelmiaomiao/EYDATA)
+
+
+- Sample R code 
+
+ 
+ ```
+ set.seed(16)
+# n=use
+new=n[sample(1:nrow(n),104268,replace = F),]
+ # new=use
+ train.index <- createDataPartition(new$target,p = .75, list = FALSE)
+ new_train <- new[train.index,]
+ new_test <- new[-train.index,]
+set.seed(16)
+ranger3 <- ranger(
+    formula   = target ~ ., 
+    data      = new_train[,c(4,5,8,9,11,12,13,14,15,16,17)], 
+    num.trees = 500,
+    mtry      = 8,
+    sample.fraction = .55,
+    min.node.size=5,
+    importance = "impurity"
+  )
+rangepre3 <- predict(ranger3,new_test[,c(4,5,8,9,11,12,13,14,15,16,17)],type = "response")
+pre3 <- ifelse(rangepre3$predictions>0.5,1,0)
+errorrange3 <- mean(pre3!=new_test$target)
+cat(1-errorrange3,"\n")
+
+last <- read.csv("reallyuseuse.csv")
+n=NULL
+n=last
+ 
+```
+
+
+```
+set.seed(71)
+   
+train.indexkk <- createDataPartition(new$target, p = .75, list = FALSE)
+new_train <- new[train.indexkk, ]
+new_test <- new[-train.indexkk, ]
+features_train <- as.matrix(new_train[,c(3,4,5,6,22:33)])
+response_train <- as.matrix(new_train[,9])
+# names(new)
+features_test <- as.matrix(new_test[,c(3,4,5,6,22:33)])
+response_test <- as.matrix(new_test[,9]) 
+# parameter list
+params <- list(
+  eta = .1,
+    max_depth = 5,
+    min_child_weight = 2,
+    subsample = .8,
+    colsample_bytree = .9
+)
+ set.seed(31)
+# train final model
+xgb.fit.final2 <- xgboost(
+  params = params,
+  data = features_train,
+  label = response_train,
+  nrounds = 410,
+  objective = "reg:linear",
+  verbose = 0
+)
+gbpre <- predict(xgb.fit.final2,features_test)
+ gbpre <- ifelse(gbpre>0.5,1,0)
+table(gbpre)
+ggerror <- mean(gbpre!=response_test)
+cat(1-ggerror)
+
+
+
+
+``` 
   
 > Jiashu Miao June 18th 2019 :)
 
