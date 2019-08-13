@@ -68,6 +68,12 @@ Gradient Boosting | Ensembled Model | LDA/QDA
 
 
 - Sample submission
+The submissions are csv files containing the information of trajectory_id with classfiation result 1/0 representing if the person is in city center or not. 
+
+- rankings 
+    - Top 10 in US with quite less intense amount of submissions: 
+![](https://raw.githubusercontent.com/michaelmiaomiao/michaelmiaomiao.github.io/master/img/post-EY_us_rank.jpg)
+    -  Ranking 11 in China region under name DEEDEE as local finalist
 
 
 
