@@ -51,7 +51,8 @@ tags:
 - efficent and customization 
 - [data stored](http://localhost:8888/tree/Documents/demodata)
 - my code: 
-```
+
+```{c}
 #!pip install selenium
 import time
 import csv
@@ -146,6 +147,5 @@ print('\nData Cleansing Successful.')
 ## save to the path you would choose.
 export1_csv =output_final.to_csv ('\Users\JMiao\Documents\demodata\extracted_data.csv', index = None, header=True)
 print("Cleaned Data Saved.")   
-    
 
 ``` 
