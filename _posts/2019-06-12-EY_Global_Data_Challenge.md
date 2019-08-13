@@ -50,6 +50,10 @@ dimemsion: 67065 * 9
 
 **My task is to predict the location of this last exit point and whether this device is within the city center or not. The target variable is the latter.**
 
+After I estimate the position of each target, I have to classify that point based on whether it is located inside the city center or not: See the graphic example below
+
+![](img/post-data-path.jpg)
+
 
 
 
