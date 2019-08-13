@@ -36,10 +36,13 @@ time_entry* | Date | Indicates the local time for the starting point of the traj
 time_exit* | Date |Indicates the local time for the ending point of the trajectory (HH:mm:ss) 
 Vmax | Integer | Represents the maximum velocity registered in the course of a trajectory. 
 Vmin | Integer |Represents the minimum velocity registered in the course of a trajectory. 
+Vmean | Integer | Represents the average velocity registered in the course of a trajectory. 
+x_entry | Double | Entry x coordinate (cartesian projected position) 
+y_entry | Double | Entry y coordinate (cartesian projected position)
+x_exit | Double | Exit x coordinate (cartesian projected position)
+y_exit | Double | Exit y coordinate (cartesian projected position)
 
-
-
-Vmean Integer Represents the average velocity registered in the course of a trajectory. x_entry Double Entry x coordinate (cartesian projected position) y_entry Double Entry y coordinate (cartesian projected position) x_exit Double Exit x coordinate (cartesian projected position) y_exit Double Exit y coordinate (cartesian projected position)
+dimemsion: 67065 * 9
     
 
 
