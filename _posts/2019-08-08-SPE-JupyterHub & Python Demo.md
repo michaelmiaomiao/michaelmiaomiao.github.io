@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      SPE JupyterHub & Python Demo.md
+title:      SPE JupyterHub & Python Demo 
 subtitle:     
 date:       2019-08-08
 author:     Jiashu Miao
