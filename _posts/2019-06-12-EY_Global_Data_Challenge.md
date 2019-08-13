@@ -54,7 +54,16 @@ After I estimate the position of each target, I have to classify that point base
 
 ![](https://raw.githubusercontent.com/michaelmiaomiao/michaelmiaomiao.github.io/master/img/post-data-path.jpg)
 
+- The procedure
+Overview -- Exloration -- Questioning -- Data Inspection -- Preprocessing (cleaning, imputation, manipulation, balancing, normalization, transformation ...) -- Stratified Data Spliting -- Feature Engineering -- Modeling  -- Tuning -- Validation   (CV,kV, LOOCV ... ) -- Testing -- Evaluation (AUC/ROC, ConfusionMatrix ...) -- Re-tuning -- Submission 
+
+There are 37 models I have built and featured using R and Python based on the running time and hands-on application during this competition, and they are (not limited to): 
+Logistic Regression | Naive Bayesian | 
+    
+
 - Sample submission
+
+
 
 
 
