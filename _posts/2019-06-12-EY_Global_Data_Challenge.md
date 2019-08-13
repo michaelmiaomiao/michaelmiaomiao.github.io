@@ -16,7 +16,13 @@ tags:
     
 ---
 
+The EY NextWave Data Science Challenge 2019 focuses on how data can help the next smart city thrive, and boost the mobility of the future.
 
-hey
+> As a challenge participant, I downloaded a dataset with a vast number of anonymous geolocation records from the US city of  Atlanta (Georgia), during October 2018. my task is to produce a model that helps understand the journeys of citizens while they move in the city throughout the day. When digging deep into the challenge, I find the work could inspire solutions that help cities anticipate disruptions, make real-time decisions, design new services, and reshape infrastructures in order to become a city as smart as their citizens.
+
+Technically speaking, 
+
+
+
 
 
