@@ -17,7 +17,7 @@ tags:
 ------------------------------------------------
 *Jupyter is an online service that all interactive computing using different programming languages across multiple users.*
 ##### Jupyter Notebook
-[JupyterNotebook](http://localhost:8888/login)
+### [JupyterNotebook](http://localhost:8888/login)
 - Accessibility & Security
     - access anywhere with internect connection 
     - username/password protect and secure files remotely [password protect](http://localhost:8888/login)
