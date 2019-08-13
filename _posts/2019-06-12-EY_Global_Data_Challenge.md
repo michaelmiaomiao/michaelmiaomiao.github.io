@@ -27,8 +27,10 @@ The evaluation standard is to check the accuracy score when applying the model (
 ### Here is an overview of the challenge: 
 - The data 
     -  The variables in the dataset are as follows:
-    Variable Name | Type | Description 
-    ------------- | ---- | --------------
+
+
+Variable Name | Type | Description 
+------------- | ---- | --------------
     
 
 
