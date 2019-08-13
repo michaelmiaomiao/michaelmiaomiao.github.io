@@ -63,6 +63,8 @@ There are 37 models I have built and featured using R and Python based on the ru
 Model Name    |   -  |  -
 ------------- | ---- | -------------
 Logistirc Regression | Naive Bayesian | Regression Trees & Baggings
+kNN | SVM | Random Forest
+Gradient Boosting | Ensembled Model | LDA/QDA
 
 
 - Sample submission
