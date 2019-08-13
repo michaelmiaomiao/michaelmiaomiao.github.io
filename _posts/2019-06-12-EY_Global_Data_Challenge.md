@@ -25,7 +25,11 @@ Technically speaking, this is a predictive analysis that applied models to deter
 The evaluation standard is to check the accuracy score when applying the model (developed using training data) to the testing data and how well the model is built based on logic, run-time efficiency, generalization and space of tuning etc. 
 
 ### Here is an overview of the challenge: 
-- 
+- The data 
+    -  The variables in the dataset are as follows:
+    Variable Name | Type | Description 
+    ------------- | ---- | --------------
+    
 
 
 
