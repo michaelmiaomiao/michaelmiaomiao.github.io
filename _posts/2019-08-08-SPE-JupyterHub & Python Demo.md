@@ -159,7 +159,7 @@ print(output_final.head(3))
 time.sleep(2)
 print('\nData Cleansing Successful.')
 ## save to the path you would choose.
-export1_csv =output_final.to_csv ('\Users\JMiao\Documents\demodata\extracted_data.csv', index = None, header=True)
+export1_csv =output_final.to_csv ('extracted_data.csv', index = None, header=True)
 print("Cleaned Data Saved.")   
 ```
  
