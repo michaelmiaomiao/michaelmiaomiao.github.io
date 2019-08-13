@@ -87,7 +87,8 @@ The submissions are csv files containing the information of trajectory_id with c
 
 
 
-:+1: :sparkles: :camel: :tada: 
+:+1: :sparkles: :camel: :tada:  
+> Jiashu Miao
 
 
 
