@@ -74,6 +74,9 @@ driver = webdriver.Chrome()  # Optional argument, if not specified will search p
 ## website you would like to complte auto scrape
 ## Link to download the webdriver -- chrome : https://chromedriver.storage.googleapis.com/index.html?path=75.0.3770.90/
 ## You may modify the webdriver or omit it depends on the system  and (or) the browser.
+
+
+# Interaction with user for text entering and searching section
 driver.get('https://www.bop.gov/inmateloc/')
 driver.find_element_by_xpath('//*[@id="ui-id-1"]/span').click()
 ## text entering on wesbite for searching
@@ -93,6 +96,9 @@ print('\n Enter the ID if it known, heat \'Enter\' if not sure: ')
 ID = input()
 text_area_mid=driver.find_element_by_id('inmNameMid')
 text_area_mid.send_keys(ID)
+
+
+# Automation and Scraping section
 print ('\n\n Is this correct information you would like to search?')
 print ('\n            <',first_name,last_name,Age,ID,'>          \n')
 print ('Please enter yes/no: \n')
@@ -137,7 +143,9 @@ else:
         print('Re-run the cell manually for this time: ')
     else:
         print("\n Data Scraping Successful, please run next cell.")
-    
+ 
+ 
+#Data Preprocessing and storage
 n=7
 final = [data[i * n:(i + 1) * n] for i in range((len(data) + n - 1) // n )]  
 output_final=pd.DataFrame(final)
