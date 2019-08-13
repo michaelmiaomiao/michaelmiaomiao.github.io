@@ -87,9 +87,8 @@ The submissions are csv files containing the information of trajectory_id with c
      - Conduct more cross validations. 
 
 
-
-:+1: :sparkles: :camel: :tada:  
-> Jiashu Miao
+  
+> Jiashu Miao June 18th 2019 :)
 
 
 
