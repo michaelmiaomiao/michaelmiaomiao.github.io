@@ -13,6 +13,7 @@ tags:
     - Supervise Learning
     - Classfication
     - Data Mining
+    - Project 
     
 ---
 
