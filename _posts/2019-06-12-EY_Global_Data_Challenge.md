@@ -25,12 +25,21 @@ Technically speaking, this is a predictive analysis that applied models to deter
 The evaluation standard is to check the accuracy score when applying the model (developed using training data) to the testing data and how well the model is built based on logic, run-time efficiency, generalization and space of tuning etc. 
 
 ### Here is an overview of the challenge: 
-- The data 
-    -  The variables in the dataset are as follows:
+- The variables in the dataset are as follows:
 
 
 Variable Name | Type | Description 
-------------- | ---- | --------------
+------------- | ---- | -------------
+hash | String |Represents the unique identifier of a device 
+trajectory_id |String | Represents the unique identifier of a trajectory associated to a device 
+time_entry* | Date | Indicates the local time for the starting point of the trajectory (HH:mm:ss) 
+time_exit* | Date |Indicates the local time for the ending point of the trajectory (HH:mm:ss) 
+Vmax | Integer | Represents the maximum velocity registered in the course of a trajectory. 
+Vmin | Integer |Represents the minimum velocity registered in the course of a trajectory. 
+
+
+
+Vmean Integer Represents the average velocity registered in the course of a trajectory. x_entry Double Entry x coordinate (cartesian projected position) y_entry Double Entry y coordinate (cartesian projected position) x_exit Double Exit x coordinate (cartesian projected position) y_exit Double Exit y coordinate (cartesian projected position)
     
 
 
