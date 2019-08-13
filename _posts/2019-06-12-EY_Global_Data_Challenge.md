@@ -52,7 +52,7 @@ dimemsion: 67065 * 9
 
 After I estimate the position of each target, I have to classify that point based on whether it is located inside the city center or not: See the graphic example below
 
-![](img/post-data-path.jpg)
+![](https://raw.githubusercontent.com/michaelmiaomiao/michaelmiaomiao.github.io/master/img/post-data-path.jpg)
 
 - Sample submission
 
