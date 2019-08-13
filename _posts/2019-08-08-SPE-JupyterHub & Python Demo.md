@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      SPE JupyterHub & Python Demo 
-subtitle:     
+subtitle:   Data Science Project with R , Python and Julia environments  
 date:       2019-08-08
 author:     Jiashu Miao
 header-img: 
