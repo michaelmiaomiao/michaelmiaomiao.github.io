@@ -22,7 +22,7 @@ tags:
     <img src = "https://jupyter.org/assets/hublogo.svg" width = "180" />
 </p> -->
 
-![](img/post-jm-web.png)
+![logo](img/post-jm-web.png)
 
 This is a project from a due diligence company called [Vcheck Global](https://vcheckglobal.com/), which provides services such as background screening, document retrieval and specialized research. The objective is to achieve a stable and user-friendly algorithm to assist employess (including non-tech) to search and obtain the information with **high automation, high efficiency, preprocessing for data, and easy-to-operate features from any web sources. 
 
