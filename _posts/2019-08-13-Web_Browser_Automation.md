@@ -21,7 +21,10 @@ tags:
 
 This is a project from a due diligence company called [Vcheck Global](https://vcheckglobal.com/), which provides services such as background screening, document retrieval and specialized research. The objective is to achieve a stable and user-friendly algorithm to assist employess (including non-tech) to search and obtain the information with **high automation, high efficiency, preprocessing for data, and easy-to-operate features from any web sources. 
 
-- My code basically works in the following flow:
+- Question to solve
+
+
+### My code basically works in the following flow:
     - use input function to prompt searching questions to users and collect text entered.
     - interact with users to to make sure the security and accuracy.
     - call the selenium web_driver to turn on the browser, enter the information and click any neccessary button on website on behalf of users, and eventually close the browser window.
