@@ -73,4 +73,4 @@ This is a project from a due diligence company called [Vcheck Global](https://vc
     
  - Sample
  
-![](img/post-jm-jupyter.jpg)
+![](/img/post-bg-coffee.jpeg)
