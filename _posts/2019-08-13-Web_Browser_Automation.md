@@ -58,4 +58,4 @@ This is a project from a due diligence company called [Vcheck Global](https://vc
     
  - Sample
  
-<a href="https://BorealBlizzard.github.io/page1.html/">Page 2</a>
+<a href="https://hub.gke.mybinder.org/user/ipython-ipython-in-depth-av8t7q31/notebooks/binder/web_browser_auto.ipynb/">Page 2</a>
