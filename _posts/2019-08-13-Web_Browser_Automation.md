@@ -65,6 +65,8 @@ This is a project from a due diligence company called [Vcheck Global](https://vc
 ---------------------
 <a href="https://mybinder.org/v2/gh/michaelmiaomiao/webfile/master?filepath=%2FWeb-browser_Automation.ipynb"><strong>Web Browser Automation with Selenium in Python</strong></a><br>
 
+Or use thi link: [https://hub.gke.mybinder.org/user/michaelmiaomiao-webfile-r9tgl5u8/notebooks/Web-browser_Automation.ipynb](https://hub.gke.mybinder.org/user/michaelmiaomiao-webfile-r9tgl5u8/notebooks/Web-browser_Automation.ipynb)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michaelmiaomiao/webfile/master?filepath=%2FWeb-browser_Automation.ipynb)
 ----------------------------
 ----------------------------
