@@ -29,9 +29,7 @@ This is a project from a due diligence company called [Vcheck Global](https://vc
 - Question Overview
 
 > Goal Is to identify if there is any record/ records matching this persons profile in the database https://www.bop.gov/inmateloc/. 
-
 > We need to come up with a rating/ scoring mechanism based on similarity of the information given in subjects profile and the information from profiles of the results returned from search in order to rank the searched records in the order of their nearest match to our subject.
-
 > The range and nature of score/rating is upto you. It should be quantitative. It can be a number from 0 to 1 or 0 to 100 or in percent form or any other range which you would consider apt.
 
 ### My code basically works in the following flow:
