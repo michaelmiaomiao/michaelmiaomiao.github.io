@@ -24,7 +24,7 @@ tags:
 
 ![](https://raw.githubusercontent.com/michaelmiaomiao/michaelmiaomiao.github.io/master/img/post-jm-web.png)
 
-This is a project from a due diligence company called [Vcheck Global](https://vcheckglobal.com/), which provides services such as background screening, document retrieval and specialized research. The objective is to achieve a stable and user-friendly algorithm to assist employess (including non-tech) to search and obtain the information with **high automation, high efficiency, preprocessing for data, and easy-to-operate features from any web sources.**
+This is a project from a due diligence company called [Vcheck Global](https://vcheckglobal.com/), which provides services such as background screening, document retrieval and specialized research. The objective is to achieve a stable and user-friendly **Python algorithm** to assist employess (including non-tech) to **search and obtain the information with easy text enter section, high automation, high efficiency, preprocessing for data, and easy-to-operate features from any web sources.**
 
 - Question Overview
 
