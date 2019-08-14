@@ -16,7 +16,9 @@ tags:
     
 ---
 
-This is a project from a due diligence company called Vcheck Global, which provides services such as background screening, document retrieval and specialized research. The objective is to achieve a stable and user-friendly algorithm to assist employess (including non-tech) to search and obtain the information with high efficiency, preprocessing for data, and easy-to-operate features from any web sources. 
+![](https://www.python.org/static/community_logos/python-logo.png)
+
+This is a project from a due diligence company called Vcheck Global, which provides services such as background screening, document retrieval and specialized research. The objective is to achieve a stable and user-friendly algorithm to assist employess (including non-tech) to search and obtain the information with **high automation, high efficiency, preprocessing for data, and easy-to-operate features from any web sources. 
 
 - My code basically works in the following flow:
     - use input function to prompt searching questions to users and collect text entered.
