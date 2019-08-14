@@ -49,7 +49,7 @@ This is a project from a due diligence company called [Vcheck Global](https://vc
     - run in the backstage to save memory, and automatically turn on/off after setting the command. 
 
 
-- Features:
+- **Features:**
     - run fast and can handle big-data.
     - complete automation brings user-friendly operation.
     - excellent accessibility if run on Jupyter servers.
@@ -58,6 +58,8 @@ This is a project from a due diligence company called [Vcheck Global](https://vc
     
  - Sample code at Jupyter
 ![](/img/post-jm-jupyter.jpg)
+
+## Check this out and run by yourself: :0
 <a href="https://hub.gke.mybinder.org/user/ipython-ipython-in-depth-av8t7q31/notebooks/binder/web_browser_auto.ipynb/">Web Browser Automation with Selenium in Python</a><br>
 
 - Sample ouput 
