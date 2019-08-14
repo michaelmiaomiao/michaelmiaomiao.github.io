@@ -18,6 +18,9 @@ tags:
 *Jupyter is an online service that all interactive computing using different programming languages across multiple users.*
 ##### Jupyter Notebook
 ### [JupyterNotebook](http://localhost:8888/login)
+
+![]
+
 - Accessibility & Security
     - access anywhere with internect connection 
     - username/password protect and secure files remotely [password protect](http://localhost:8888/login)
@@ -36,12 +39,15 @@ tags:
 [JupyterHub](http://.spe.sony.com:8888/hub/login)
 <p><img src = "https://www.qnap.com/images/products/Application/notes/quai_JupyterHub_02.png" width = "700"></p>
 
-- admin and general user 
+- admin and general user previledge
 - username folder / project fold [file name](http://.spe.sony.com:8888/user/tom/terminals/1)
 - create/ban users generation (without neet to create system users) 
 - users with third party and connection to github, sql, tableau etc. 
 - customization 
 - authentification and ssh
+- run in the background though Linux server log out
+
+![](https://raw.githubusercontent.com/michaelmiaomiao/michaelmiaomiao.github.io/master/img/o_jupyter_6.gif)
 
 ![img](https://jupyterhub.readthedocs.io/en/stable/_images/jhub-fluxogram.jpeg)
 
