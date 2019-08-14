@@ -26,7 +26,7 @@ tags:
 
 This is a project from a due diligence company called [Vcheck Global](https://vcheckglobal.com/), which provides services such as background screening, document retrieval and specialized research. The objective is to achieve a stable and user-friendly **Python algorithm** to assist employess (including non-tech) to **search and obtain the information with easy text enter section, high automation, high efficiency, preprocessing for data, and easy-to-operate features from any web sources.**
 
-- Question Overview
+- **Question Overview**
 
 > Goal Is to identify if there is any record/ records matching this
 > persons profile in the database https://www.bop.gov/inmateloc/. 
@@ -72,7 +72,7 @@ This is a project from a due diligence company called [Vcheck Global](https://vc
 
 
 
-- Sample ouput 
+- **Sample ouput**
 
 ![](/img/post-jm-websource.png)
 ![](/img/post-web3.png)
