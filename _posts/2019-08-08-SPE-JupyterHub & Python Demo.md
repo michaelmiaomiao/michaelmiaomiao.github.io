@@ -35,10 +35,13 @@ tags:
 ### JupyterHub 
 [JupyterHub](http://.spe.sony.com:8888/hub/login)
 <p><img src = "https://www.qnap.com/images/products/Application/notes/quai_JupyterHub_02.png" width = "700"></p>
+
 - admin and general user 
 - username folder / project fold [file name](http://.spe.sony.com:8888/user/tom/terminals/1)
 - create/ban users generation (without neet to create system users) 
 - users with third party and connection to github, sql, tableau etc. 
+- customization 
+- authentification and ssh
 
 ![img](https://jupyterhub.readthedocs.io/en/stable/_images/jhub-fluxogram.jpeg)
 
