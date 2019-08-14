@@ -27,6 +27,9 @@ tags:
 This is a project from a due diligence company called [Vcheck Global](https://vcheckglobal.com/), which provides services such as background screening, document retrieval and specialized research. The objective is to achieve a stable and user-friendly algorithm to assist employess (including non-tech) to search and obtain the information with **high automation, high efficiency, preprocessing for data, and easy-to-operate features from any web sources. 
 
 - Question to solve
+> Goal Is to identify if there is any record/ records matching this persons profile in the database https://www.bop.gov/inmateloc/. This would indicate a red flag against this subject.
+> We need to come up with a rating/ scoring mechanism based on similarity of the information given in subjects profile and the information from profiles of the results returned from search in order to rank the searched records in the order of their nearest match to our subject.
+
 
 
 ### My code basically works in the following flow:
