@@ -58,17 +58,4 @@ This is a project from a due diligence company called [Vcheck Global](https://vc
     
  - Sample
  
-![](/img/post-jm-jupyter.jpg)
-```Python
-#!pip install selenium
-import time
-import csv
-import datetime
-import argparse
-import os
-import numpy
-#!pip install selenium
-from selenium import webdriver
-import pandas as pd;
-
-```
+<a href="https://BorealBlizzard.github.io/page1.html/">Page 2</a>
