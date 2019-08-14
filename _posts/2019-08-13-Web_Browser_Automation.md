@@ -59,3 +59,12 @@ This is a project from a due diligence company called [Vcheck Global](https://vc
  - Sample code at Jupyter
 ![](/img/post-jm-jupyter.jpg)
 <a href="https://hub.gke.mybinder.org/user/ipython-ipython-in-depth-av8t7q31/notebooks/binder/web_browser_auto.ipynb/">Web Browser Automation with Selenium in Python</a><br>
+
+- Sample ouput 
+
+![](/img/post-jm-websource.png)
+![](/img/post-web1.png)
+![](/img/post-web2.png)
+![](/img/post-web3.png)
+
+> edited by Jiashu Miao :) 08/13/2019
