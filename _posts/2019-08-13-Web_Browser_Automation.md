@@ -70,3 +70,7 @@ This is a project from a due diligence company called [Vcheck Global](https://vc
     - excellent accessibility if run on Jupyter servers.
     - secured visit to any target web sources with virtual information from selenium to protect users
     - high accuracy because of the nature to optimize entered information and interactions with users.
+    
+ - Sample
+ 
+![](img/post-jm-jupyter.jpg)
