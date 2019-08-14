@@ -28,7 +28,8 @@ This is a project from a due diligence company called [Vcheck Global](https://vc
 
 
 ### My code basically works in the following flow:
-    - use input function to prompt searching questions to users and collect text entered.
+   
+   - use input function to prompt searching questions to users and collect text entered.
     - interact with users to to make sure the security and accuracy.
     - call the selenium web_driver to turn on the browser, enter the information and click any neccessary button on website on behalf of users, and eventually close the browser window.
     - optimize users' searching with a dynamic algorithm if the information is not entered correctly and repeat steps to replace manual operation of the code. 
@@ -36,6 +37,7 @@ This is a project from a due diligence company called [Vcheck Global](https://vc
     - store in local with designed name automatically created based on searching information (e.g. person's name, website title, table title etc.)
     - interact with users to import the scraped information to conduct any further manipulation, analysis or evaluations. 
     - run in the backstage to save memory, and automatically turn on/off after setting the command. 
+
 
 - Features:
     - run fast and can handle big-data.
