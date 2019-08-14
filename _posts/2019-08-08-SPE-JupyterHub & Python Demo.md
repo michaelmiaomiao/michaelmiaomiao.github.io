@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      SPE JupyterHub & Python on remote Linux/Unix servers
-subtitle:   A Demo to 45 related/interested fellows at Sony Pictures -- Architecture for R , Python and Julia environments with Corporate Data Science Project Initiatives. 
+title:      SPE JupyterHub & Python on remote Linux/Unix servers 
+subtitle:   A Presenation to 45 related/interested fellows on as an intern at Sony Pictures 19 summer -- Architecture for R , Python and Julia environments with Corporate Data Science Project Initiatives. 
 date:       2019-08-08
 author:     Jiashu Miao
 header-img: 
@@ -21,7 +21,7 @@ tags:
 - Accessibility & Security
     - access anywhere with internect connection 
     - username/password protect and secure files remotely [password protect](http://localhost:8888/login)
-    - configure network, authtication, etc.  [config](https://github.com/michaelmiaomiao/SPE/blob/master/jupyter_notebook_config.py)
+    - configure network, authtication, etc.  [config](https://.com/michaelmiaomiao/SPE/blob/master/jupyter_notebook_config.py)
 - Work Efficiency
 	- file transformation, share and edit 
     - work as individuals / groups 
@@ -33,10 +33,10 @@ tags:
     - good for demo / 
 
 ### JupyterHub 
-[JupyterHub](http://usdl646.spe.sony.com:8888/hub/login)
+[JupyterHub](http://.spe.sony.com:8888/hub/login)
 
 - admin and general user 
-- username folder / project fold [file name](http://usdl646.spe.sony.com:8888/user/tom/terminals/1)
+- username folder / project fold [file name](http://.spe.sony.com:8888/user/tom/terminals/1)
 - create/ban users generation (without neet to create system users) 
 - users with third party and connection to github, sql, tableau etc. 
 
@@ -159,8 +159,7 @@ print(output_final.head(3))
 time.sleep(2)
 print('\nData Cleansing Successful.')
 ## save to the path you would choose.
-export1_csv =output_final.to_csv ('\Users\JMiao\Documents\demodata\extracted_data.csv', index = None, header=True)
+export1_csv =output_final.to_csv ('extracted_data.csv', index = None, header=True)
 print("Cleaned Data Saved.")   
 ```
  
->>>>>>> b2cd649cf3097a2e41539c680f18addb743cfa83
