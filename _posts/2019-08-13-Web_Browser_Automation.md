@@ -22,11 +22,34 @@ tags:
     <img src = "https://jupyter.org/assets/hublogo.svg" width = "180" />
 </p> -->
 
-![](img/post-jm-web.png)
+![](https://raw.githubusercontent.com/michaelmiaomiao/michaelmiaomiao.github.io/master/img/post-jm-web.png)
 
 This is a project from a due diligence company called [Vcheck Global](https://vcheckglobal.com/), which provides services such as background screening, document retrieval and specialized research. The objective is to achieve a stable and user-friendly algorithm to assist employess (including non-tech) to search and obtain the information with **high automation, high efficiency, preprocessing for data, and easy-to-operate features from any web sources. 
 
-- Question to solve
+- Question Overview
+
+> Goal Is to identify if there is any record/ records matching this persons profile in the database https://www.bop.gov/inmateloc/. 
+
+> This would indicate a red flag against this subject.
+
+> We need to come up with a rating/ scoring mechanism based on similarity of the information given in subjects profile and the information from profiles of the results returned from search in order to rank the searched records in the order of their nearest match to our subject.
+
+> Few points to note:
+
+> Aliases are akas by which the subject might be registered in databases.
+
+> Search is done by name
+
+> Age in this database may be registered with an error of 1 year. For example- if the age of our subject is 26, and he has a record in BOP , then there is a possibility that his age in his BOP records may be 25, or 26 or 27.
+
+> The records in the database are uniquely identified by register number.
+
+> The range and nature of score/rating is upto you. It should be quantitative. It can be a number from 0 to 1 or 0 to 100 or in percent form or any other range which you would consider apt.
+
+> You can use any mechanism ( simple to complex) which helps you solve the goal best.
+
+
+
 
 
 ### My code basically works in the following flow:
