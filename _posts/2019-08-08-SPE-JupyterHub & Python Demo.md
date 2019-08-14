@@ -19,7 +19,7 @@ tags:
 ##### Jupyter Notebook
 ### [JupyterNotebook](http://localhost:8888/login)
 
-![]
+![](https://raw.githubusercontent.com/michaelmiaomiao/michaelmiaomiao.github.io/master/img/juypter-update-1.gif)
 
 - Accessibility & Security
     - access anywhere with internect connection 
