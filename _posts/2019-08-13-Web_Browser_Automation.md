@@ -16,7 +16,7 @@ tags:
     
 ---
 
-![](https://www.python.org/static/community_logos/python-logo.png)
+![](https://www.python.org/static/community_logos/python-logo.png) ![](https://devonblog.com/wp-content/uploads/2018/08/selenium.png)
 
 This is a project from a due diligence company called Vcheck Global, which provides services such as background screening, document retrieval and specialized research. The objective is to achieve a stable and user-friendly algorithm to assist employess (including non-tech) to search and obtain the information with **high automation, high efficiency, preprocessing for data, and easy-to-operate features from any web sources. 
 
