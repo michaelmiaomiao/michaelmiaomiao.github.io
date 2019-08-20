@@ -18,8 +18,14 @@ tags:
 ---
 
 
+### THE CHALLENGE:
+- Review the 1990,2000,2010 census data for the city of Seattle or Washington state.
+- Find a way to represent the data in a creative and engaging way.
+- Provide with some interesting discoveries.
 
+### The project plots [using Tableau]
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 <object data="https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf" type="application/pdf" width="1000px" height="1200px">
     <embed src="https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf">
@@ -28,4 +34,13 @@ tags:
 </object>
 
 [If you find the browser not supporting, please donwload the PDF to view it. ](https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+### The dashboard and analysis
+
+![](https://michaelmiaomiao.github.io/webfile/Seattle_C_Dash.jpg)
+
+
+
 
