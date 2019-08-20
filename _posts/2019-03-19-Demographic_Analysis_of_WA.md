@@ -18,13 +18,14 @@ tags:
 ---
 
 
-https://github.com/michaelmiaomiao/webfile/blob/master/Demographic_Analysis.pdf
 
 
-<object data="https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf" type="application/pdf" width="700px" height="700px">
+
+<object data="https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf" type="application/pdf" width="700px" height="1200px">
     <embed src="https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf">Download PDF</a>.</p>
     </embed> 
 </object>
 
+[If you find the browser not supporting, please donwload the PDF to view it. (https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf)
 
