@@ -48,7 +48,7 @@ y_exit | Double | Exit y coordinate (cartesian projected position)
 dimemsion: 67065 * 9
     
 
-- The challenge objective 
+### The challenge objective 
 > I would like to predict how many people are in the city center between 15:00 and 16:00. The test dataset contains a number of devices where the trajectories after 15:00 have been removed. All but one: After 15:00, you will find one last trajectory, with (1) entry location, (2) entry time and an exit time that is between 15:00 and 16:00. But the exit point has been removed.
 
 **My task is to predict the location of this last exit point and whether this device is within the city center or not. The target variable is the latter.**
@@ -57,7 +57,7 @@ After I estimate the position of each target, I have to classify that point base
 
 ![](https://raw.githubusercontent.com/michaelmiaomiao/michaelmiaomiao.github.io/master/img/post-data-path.jpg)
 
-- The procedure
+### The procedure
 
 Overview -- Exloration -- Questioning -- Data Inspection -- Preprocessing (cleaning, imputation, manipulation, balancing, normalization, transformation ...) -- Stratified Data Spliting -- Feature Engineering -- Modeling  -- Tuning -- Validation   (CV,kV, LOOCV ... ) -- Testing -- Evaluation (AUC/ROC, ConfusionMatrix ...) -- Re-tuning -- Submission 
 
@@ -70,16 +70,16 @@ kNN | SVM | Random Forest
 Gradient Boosting | Ensembled Model | LDA/QDA
 
 
-- Sample submission
+### Sample submission
 The submissions are csv files containing the information of trajectory_id with classfiation result 1/0 representing if the person is in city center or not. 
 
-- Rankings 
+### Rankings 
     - Top 10 in US with quite less intense amount of submissions: 
 ![](https://raw.githubusercontent.com/michaelmiaomiao/michaelmiaomiao.github.io/master/img/post-EY_us_rank.jpg)
     -  Ranking 11 in China region under name DEEDEE as local finalist
 ![](https://raw.githubusercontent.com/michaelmiaomiao/michaelmiaomiao.github.io/master/img/Screen%20Shot%202019-08-13%20at%2015.23.29.png)
 
-- Improvement
+### Improvement
      - we could improve the model with more advanced algorithms such as Generalized RF.
      - Imputate the missing values better 
      - Balance the data distribution for some of the models
@@ -87,12 +87,12 @@ The submissions are csv files containing the information of trajectory_id with c
      - Conduct more cross validations. 
 
 
-- Reference files:
+### Reference files:
 
 [EY DATA CHALLENGE](https://github.com/michaelmiaomiao/EYDATA)
 
 
-- Sample R code 
+### Sample R code 
 
  
  ```
