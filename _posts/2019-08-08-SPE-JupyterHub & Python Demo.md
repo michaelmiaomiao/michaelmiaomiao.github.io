@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      SPE JupyterHub & Python on remote Linux/Unix servers 
-subtitle:   A Presenation to 45 related/interested fellows on as an intern at Sony Pictures 19 summer -- Architecture for R , Python and Julia environments with Corporate Data Science Project Initiatives. 
+subtitle:   A Presenation to 45 related/interested fellows at Sony Pictures 19 summer -- Architecture for R , Python and Julia environments for Corporate Data Science Project Initiatives. 
 date:       2019-08-08
 author:     Jiashu Miao
 header-img: 
