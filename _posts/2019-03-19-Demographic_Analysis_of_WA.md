@@ -21,7 +21,7 @@ tags:
 
 
 
-<object data="https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf" type="application/pdf" width="700px" height="1200px">
+<object data="https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf" type="application/pdf" width="1200px" height="1200px">
     <embed src="https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf">Download PDF</a>.</p>
     </embed> 
