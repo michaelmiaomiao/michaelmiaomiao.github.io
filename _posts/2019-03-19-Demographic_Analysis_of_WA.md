@@ -25,7 +25,7 @@ tags:
 
 ### The project plots [using Tableau]
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 <object data="https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf" type="application/pdf" width="1000px" height="1200px">
     <embed src="https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf">
@@ -35,7 +35,7 @@ tags:
 
 [If you find the browser not supporting, please donwload the PDF to view it. ](https://michaelmiaomiao.github.io/webfile/Demographic_Analysis.pdf)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------
 
 ### The dashboard and analysis
 
