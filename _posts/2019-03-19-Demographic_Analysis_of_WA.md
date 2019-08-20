@@ -28,19 +28,19 @@ tags:
 .... <!-- post content -->
 
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+<object data="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf">Download PDF</a>.</p>
     </embed> 
 </object>
 
 
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=http://example.com/the.pdf" width="500" height="375">
+viewer?embedded=true&url=https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf" width="500" height="375">
 
 
-<embed src="http://example.com/the.pdf" width="500" height="375" 
+<embed src="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf" width="500" height="375" 
  type="application/pdf"> </embed> 
  
  
- <iframe src="http://docs.google.com/gview?url=http://example.com/mypdf.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+ <iframe src="http://docs.google.com/gview?url=https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
