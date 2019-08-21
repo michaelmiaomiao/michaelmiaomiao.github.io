@@ -14,3 +14,12 @@ tags:
     - Product 
     
 ---
+
+
+## Project Report
+
+<object data="https://michaelmiaomiao.github.io/webfile/E.pdf" type="application/pdf" width="800px" height="1000px">
+    <embed src="https://michaelmiaomiao.github.io/webfile/E.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://michaelmiaomiao.github.io/webfile/E.pdf">Download PDF</a>.</p>
+    </embed> 
+</object>
