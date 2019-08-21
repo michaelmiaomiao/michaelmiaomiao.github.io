@@ -35,7 +35,7 @@ The Canadian National Women's Rugby Team seeks your advice on the role of worklo
 5. You will find it tempting to use the location data to help inform on-field strategy. We advise against this because it is unlikely to help you understand fatigue. The location data are provided in order to help you study fatigue. For example, it could be used to, verify hypotheses, or evaluate player fatigue in different positions (e.g., how does a player’s position contribute to their fatigue?).
 
 
-## Presentation 
+## Analysis & Presentation 
 
 --------------------------
 
@@ -47,7 +47,9 @@ The Canadian National Women's Rugby Team seeks your advice on the role of worklo
 
 --------------------------
 
-## Conclusion 
+## Conclusion
 
-![](/img/Athlete.png)
+- Athletes Movement Density Plot
+
+![](/img/Athlete.png=250x)
 ![Athletes Movement Density Plot](/img/DF.png)
