@@ -89,17 +89,23 @@ This is a relatively unstructured, independent exploratory data analysis & visua
 
 ## Sample Code 
 
+---------------- 
+
 - R 
 
 ![](https://michaelmiaomiao.github.io/webfile/Rzip.png)
 #### [R code](https://michaelmiaomiao.github.io/webfile/Rzip.html)
 
+----------------
+
 - Python
 
-#### [Python code](https://michaelmiaomiao.github.io/webfile/PYzip.pdf)
+
 
 <object data="https://michaelmiaomiao.github.io/webfile/PYzip.pdf" type="application/pdf" width="800px" height="1200px">
     <embed src="https://michaelmiaomiao.github.io/webfile/PYzip.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://michaelmiaomiao.github.io/webfile/PYzip.pdf">Download PDF</a>.</p>
     </embed> 
 </object>
+
+#### [Python code](https://michaelmiaomiao.github.io/webfile/PYzip.pdf)
