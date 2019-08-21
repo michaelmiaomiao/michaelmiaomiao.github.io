@@ -91,14 +91,16 @@ This is a relatively unstructured, independent exploratory data analysis & visua
 
 ---------------- 
 
-- R 
+#### [R code](https://michaelmiaomiao.github.io/webfile/Rzip.html)
 
 ![](https://michaelmiaomiao.github.io/webfile/Rzip.png)
-#### [R code](https://michaelmiaomiao.github.io/webfile/Rzip.html)
+
 
 ----------------
 
-- Python
+
+
+#### [Python code](https://michaelmiaomiao.github.io/webfile/PYzip.pdf)
 
 
 
@@ -108,4 +110,4 @@ This is a relatively unstructured, independent exploratory data analysis & visua
     </embed> 
 </object>
 
-#### [Python code](https://michaelmiaomiao.github.io/webfile/PYzip.pdf)
+-------------------
