@@ -37,8 +37,17 @@ The Canadian National Women's Rugby Team seeks your advice on the role of worklo
 
 ## Presentation 
 
+--------------------------
+
 <object data="https://michaelmiaomiao.github.io/webfile/UCLA_DF.pdf" type="application/pdf" width="800px" height="1200px">
     <embed src="https://michaelmiaomiao.github.io/webfile/UCLA_DF.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://michaelmiaomiao.github.io/webfile/UCLA_DF.pdf">Download PDF</a>.</p>
     </embed> 
 </object>
+
+--------------------------
+
+## Conclusion 
+
+![](/img/Athlete.png)
+![Athletes Movement Density Plot](/img/DF.png)
