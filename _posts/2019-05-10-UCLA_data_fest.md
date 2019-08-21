@@ -51,5 +51,5 @@ The Canadian National Women's Rugby Team seeks your advice on the role of worklo
 
 - Athletes Movement Density Plot
 
-![](/img/Athlete.png=250x)
+![](/img/Athlete.png =100x20)
 ![Athletes Movement Density Plot](/img/DF.png)
