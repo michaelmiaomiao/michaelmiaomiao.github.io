@@ -1,18 +1,21 @@
 ---
 layout:     post
-title:      
-subtitle:   Tableau Desktop could be a powerful tool to study cencus statistically and display plots that demonstrate business insight and any other interesting findings.
-date:       2019-03-12
+title:      UCLA Data Fest 2019 -- Sports Analytics for Athlete's Fatigue Levels
+subtitle:   Effects of Acute and Chronic Fatigue on a Rugby Player’s Performance and Advice for Coaches.
+date:       2019-05-12
 author:     Jiashu Miao
 header-img: 
 catalog: true
 tags:
-    - Excel
+    - Python
     - R
     - Tableau
-    - Demographic analysis
+    - Sports Analytics
     - Data Exploration
     - Interactive Dashboard
+    - Presentation
     - Project 
     
 ---
+
+
