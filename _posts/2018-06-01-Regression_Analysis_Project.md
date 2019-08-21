@@ -21,4 +21,9 @@ tags:
 </object>
 
 
-https://github.com/michaelmiaomiao/webfile/blob/master/Rregression.pdf
+[Click to view]()
+
+
+
+
+> edited by Jiashu miao
