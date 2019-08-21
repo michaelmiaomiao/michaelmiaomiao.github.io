@@ -111,3 +111,17 @@ This is a relatively unstructured, independent exploratory data analysis & visua
 </object>
 
 -------------------
+
+
+
+#### [Tableau](https://michaelmiaomiao.github.io/webfile/Tzip.pdf)
+
+
+
+<object data="https://michaelmiaomiao.github.io/webfile/Tzip.pdf" type="application/pdf" width="800px" height="1200px">
+    <embed src="https://michaelmiaomiao.github.io/webfile/Tzip.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://michaelmiaomiao.github.io/webfile/Tzip.pdf">Download PDF</a>.</p>
+    </embed> 
+</object>
+
+-------------------
