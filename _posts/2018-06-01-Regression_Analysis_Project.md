@@ -19,3 +19,6 @@ tags:
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://michaelmiaomiao.github.io/webfile/Rregression.pdf">Download PDF</a>.</p>
     </embed> 
 </object>
+
+
+https://github.com/michaelmiaomiao/webfile/blob/master/Rregression.pdf
