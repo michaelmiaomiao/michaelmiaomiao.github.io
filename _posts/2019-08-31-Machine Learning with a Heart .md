@@ -26,7 +26,7 @@ Coronary heart disease (CHD) is the most common type of heart disease, killing o
 Every year about 735,000 Americans have a heart attack. Of these, 525,000 are a first heart attack and 210,000 happen in people who have already had a heart attack.
 Heart disease is the leading cause of death for people of most ethnicities in the United States, including African Americans, Hispanics, and whites. For American Indians or Alaska Natives and Asians or Pacific Islanders, heart disease is second only to cancer.
 For more information, you can look at the website of the Centers for Disease Control and Prevention:
-[prventing heart disease](https://www.cdc.gov/heartdisease/prevention.htm)
+[preventing heart disease](https://www.cdc.gov/heartdisease/prevention.htm)
 
 
 ### Progress
