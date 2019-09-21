@@ -63,3 +63,6 @@ Note: imagine that the data in the flatfile was pulled on January 1, 2019 and is
 ![](https://michaelmiaomiao.github.io/webfile/Hoppic.png)
 2. R output: [Click Here to View](https://michaelmiaomiao.github.io/webfile/Jiashu_Miao.html)
 
+
+
+> edited by Jiashu Miao :) 09/20/2019
