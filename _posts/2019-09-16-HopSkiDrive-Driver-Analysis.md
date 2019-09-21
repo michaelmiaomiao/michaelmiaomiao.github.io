@@ -17,6 +17,11 @@ tags:
 
 ### For demo and recruiters view only, please do not repost or disclose any data & information.
 
+
+![](https://images.squarespace-cdn.com/content/54bc0cc4e4b071c8f286c9e2/1551853378513-FBXTVADLJRHRAJ6RIAY5/logo.png?content-type=image%2Fpng)
+
+-------------------------------------------
+
 ## Background
 
 This is a data project comes from HopSkipDrive for interview challenge: HopSkipDrive has always been dedicated to making a difference in the lives of children and families. We understand that transportation can be the difference between success and struggle, which is why we’re on a mission to use technology, operational expertise, and new thinking to help kids reach their full potential by providing a safe, dependable way to get them where they need to be.  [Source](https://www.hopskipdrive.com/about)
@@ -62,6 +67,8 @@ Note: imagine that the data in the flatfile was pulled on January 1, 2019 and is
 
 ![](https://michaelmiaomiao.github.io/webfile/Hoppic.png)
 2. R output: [Click Here to View](https://michaelmiaomiao.github.io/webfile/Jiashu_Miao.html)
+
+--------------------------------------------------------
 
 
 
