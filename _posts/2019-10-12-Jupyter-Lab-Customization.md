@@ -18,3 +18,6 @@ tags:
     - Interface
 
 ---
+
+## Overview
+Fundamentally, JupyterLab is designed as an extensible environment. JupyterLab extensions can customize or enhance any part of JupyterLab. They can provide new themes, file viewers and editors, or renderers for rich outputs in notebooks.
