@@ -34,3 +34,14 @@ Ideally, JupyerLab could be used to run multiple languages and edit documents al
 
 ## Instructions
 
+I use MacOS terminal to install and configure most of the environments and JupyterLab manager extensions to customize interface with extra functions and features, instead of Anaconda GUI distribution.
+
+Inspired by the following tutorials and github repos:
+
+- [R](https://github.com/IRkernel/IRkernel)
+- [Java](https://github.com/SpencerPark/IJava#installing)
+- [Matlab](https://am111.readthedocs.io/en/latest/jmatlab_use.html)
+- [SQL](https://www.datacamp.com/community/tutorials/sql-interface-within-jupyterlab)
+- [A curated list of awesome JupyterLab extensions and resources](https://github.com/mauhai/awesome-jupyterlab)
+
+< Edited by Michael Miao on Oct 13th, 2019
