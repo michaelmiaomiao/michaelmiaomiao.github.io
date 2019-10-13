@@ -26,8 +26,11 @@ Fundamentally, JupyterLab is designed as an extensible environment. JupyterLab e
 
 ## Example
 
-Ideally, JupyerLab could be used to run mutiple languages and edit documents all together on one platform.
+Ideally, JupyerLab could be used to run multiple languages and edit documents all together on one platform.
 
-- An example of my JupyterLab after customization with different environments and extensions, I could use it to write R, Python, Matlab and though not listed in the page, C++, Julia, Rugby etc. And I can use my JupyterLab as a terminal, a diagram painter, a SQL interface to connect with different databases and file editors, a video player and a web browser. 
+- An example of my JupyterLab after customization with different environments and extensions, I could use it to write R, Python, Matlab and though not listed in the page, C++, Julia, Rugby, etc. And I can use my JupyterLab as a terminal, a diagram painter, a SQL interface to connect with different databases and file editors, a video player and a web browser. 
 
 ![](https://michaelmiaomiao.github.io/webfile/Jupyterlab.png)
+
+## Instructions
+
