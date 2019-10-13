@@ -44,4 +44,4 @@ Inspired by the following tutorials and github repos:
 - [SQL](https://www.datacamp.com/community/tutorials/sql-interface-within-jupyterlab)
 - [A curated list of awesome JupyterLab extensions and resources](https://github.com/mauhai/awesome-jupyterlab)
 
-< Edited by Michael Miao on Oct 13th, 2019
+> Edited by Michael Miao on Oct 13th, 2019
