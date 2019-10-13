@@ -30,4 +30,4 @@ Ideally, JupyerLab could be used to run mutiple languages and edit documents all
 
 - An example of my JupyterLab after customization with different environments and extensions, I could use it to write R, Python, Matlab and though not listed in the page, C++, Julia, Rugby etc. And I can use my JupyterLab as a terminal, a diagram painter, a SQL interface to connect with different databases and file editors, a video player and a web browser. 
 
--![Example:]('https://michaelmiaomiao.github.io/webfile/Jupyterlab.png')
+![](https://michaelmiaomiao.github.io/webfile/Jupyterlab.png)
