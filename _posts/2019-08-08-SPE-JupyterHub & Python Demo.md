@@ -68,6 +68,8 @@ tags:
 
 
 ### Jupyterlab customized interface 
+
+![](https://michaelmiaomiao.github.io/webfile/Jupyterlab.png)
 - with R, Python3, SQL, Java and Matlab
 - Graph function, Google Drive connection, Git, Markdown and Latex, Python Script Writing, etc.
 - See more at my post: [Jupyter Lab Customization with Python, C++, R, Matlab Environments and SQL, Diagram, Markdown interface.](https://michaelmiaomiao.github.io/2019/10/12/Jupyter-Lab-Customization/) 
