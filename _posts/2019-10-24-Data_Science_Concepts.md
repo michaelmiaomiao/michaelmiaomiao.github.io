@@ -126,7 +126,7 @@ best when character symmetric distribution without outliers: 1/n sigma X
 #### Geometric Mean: 
 Always smaller than arithematic means: useful to capture averaging ratios mean = Nth root of a1 a2 ...a3 
 
-$$ ^n\sqrt{a_{1}*}$$
+$$ ^n\sqrt{a_{1}*a_{2}* ... * a_{n}}$$
 #### median
  
 #### mode: most frequent value
@@ -135,8 +135,6 @@ $$\begin{array}\\
 x_{11} & x_{12} & x_{13} 
 & x_{21} & x_{22} & x_{23}
 \end{array}$$
-
-
 $ \Phi_{0}$
 
 
