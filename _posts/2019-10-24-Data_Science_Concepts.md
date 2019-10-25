@@ -328,7 +328,7 @@ Process of statistical reasoning: there is an underlying population of possible 
 The power law (also called the scaling law) states that a relative change in one quantity results in a proportional relative change in another
 > [check](https://www.statisticshowto.datasciencecentral.com/power-law/)
 
-![]()
+![](https://michaelmiaomiao.github.io/webfile/distribution.png)
 
 
 
