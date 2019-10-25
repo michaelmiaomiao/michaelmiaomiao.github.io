@@ -20,4 +20,8 @@ tags:
 
 Multi-disciplinary field that brings together concepts from computer science, statistics/machine learning, and data analysis to understand and extract insights from the ever-increasing amounts of data.
 
+1. Hypothesis-Driven: Given a problem, what kind of data do we need to help solve it?
 
+2. Data-Driven: Given some data, what interesting problems can be solved with it
+
+3. what can we learn from data and what actions to take?
