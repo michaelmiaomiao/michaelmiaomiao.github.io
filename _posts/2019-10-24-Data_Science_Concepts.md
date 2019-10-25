@@ -350,6 +350,74 @@ we want to understand the relationship between X and Y. We can no longer treat f
 #### More About c
 The error term c is composed of the reducible and irreducible error, which will prevent us from ever obtaining a perfect fˆ estimate.
 
+- Reducible: error that can potentially be reduced by using the most appropriate statistical learning technique to estimate f. The goal is to minimize the reducible error.
+Y =f(X)+c
+- Irreducible: error that cannot be reduced no matter how well we estimate f. Irreducible error is unknown and unmeasurable and will always be an upper bound for c.
+
+#### Variance and Bias tradeoff
+There will always be tradeoff between model flexibility (prediction) and model interpretability (inference). This is just another case of the bias-variance trade-off. Typically, as flexibility increases, interpretability decreases. Much of statistical learning/modeling is finding a way to balance the two.
+
+##  Modeling- Philosophies
+
+**Modeling** is the process of incorporating information into a tool which can forecast and make predictions. 
+
+Designing and validating models is important, as well as evaluating the performance of models. Note that the best forecasting model may not be the most accurate one.
+
+### Philosophies of modeling:
+
+#### Occam’s Razor
+Philosophical principle that the simplest explanation is the best explanation. In modeling, if we are given two models that predicts equally well, we should choose the simpler one. Choosing the more complex one can often result in **overfitting**.
+
+#### Bias Variance Trade-Off
+Inherent part of predictive modeling, where models with lower bias will have higher variance and vice versa. **Goal is to achieve low bias and low variance**.
+
+
+#### Bias: 
+error from incorrect assumptions to make target function easier to learn (high bias ! missing rel- evant relations or underfitting)
+
+
+#### Variance:
+error from **sensitivity to fluctuations** in the dataset, or how much the target estimate would di↵er if different training data was used (high vari- ance ! modeling noise or overfitting)
+
+
+#### note: both bias and variance are errors
+
+#### **No Free Lunch Theorem** 
+No single machine learning algorithm is better than all the others on all problems. It is common to **try multiple model**s and find one that works best for a particular problem.
+
+#### Thinking Like Nate Silve
+
+1. Think Probabilistically Probabilistic forecasts are more meaningful than concrete statements and should be reported as probability distributions,.
+
+#### Incorporate New Information
+
+2.  Incorporate New Information Use live models, which continually updates using new information. To up-date, use Bayesian reasoning to calculate how probabilities change in response to new evidence.
+
+#### Consensus Forecast
+
+3. Look For Consensus Forecast Use multiple distinct sources of evidence. Some models operate this way, such as boosting and bagging, which uses large number of weak classifiers to produce a strong one.
+
+###  Modeling- Taxonomy
+
+#### Parametric vs. Nonparametric
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## stats power 
 ## Factor Analysis
 ## Dimension Reduction
