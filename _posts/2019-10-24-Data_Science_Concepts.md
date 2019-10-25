@@ -205,6 +205,7 @@ that these values are MCAR if the probability of missing data on Y is unrelated 
 
 ## Methods for handling missing data
 
+### Conventional methods:
 1. **Listwise deletion** (or complete case analysis): If a case has missing data for any of the variables,
 then simply exclude that case from the analysis. It is usually the default in statistical packages. (Briggs et al.,2003).
 
