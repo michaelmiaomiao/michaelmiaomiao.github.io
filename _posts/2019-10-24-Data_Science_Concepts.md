@@ -101,7 +101,7 @@ $$ E(V) = \sum(s\space belongs\space to\space s) P(s) * V(s)$$
 ### Indepedence Conditional Compound
 
 
-
+![]()
 
 
 
