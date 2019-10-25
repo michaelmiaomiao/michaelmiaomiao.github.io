@@ -41,9 +41,15 @@ Multi-disciplinary field that brings together concepts from computer science, st
 ### Data Source / Format
 
 
-- Most Common Data Formats CSV, XML, SQL, JSON, Protocol Bu↵ers
+#### Most Common Data Formats
 
-- Data Sources Companies/Proprietary Data, APIs, Gov- ernment, Academic, Web Scraping/Crawling
+CSV, XML, SQL, JSON, Protocol Bu↵ers
+
+#### Data Sources 
+
+Companies/Proprietary Data, APIs, Gov- ernment, Academic, Web Scraping/Crawling
+
+
 
 
 ### Data Science Problem Types:
@@ -55,7 +61,16 @@ Assigning something to a discrete set of possibilities. e.g. spam or non-spam, D
 Predicting a numerical value. e.g. some- one’s income, next year GDP, stock price
 
 
+## Probablity
 
+Probability theory provides a framework for reasoning about likelihood of events.
+
+
+#### Experiment: 
+procedure that yields one of a possible set of outcomes e.g. repeatedly tossing a die or coin.
+
+#### Sample Space S:
+set of possible outcomes of an experi- ment e.g. if tossing a die, S = (1,2,3,4,5,6)
 
 
 
