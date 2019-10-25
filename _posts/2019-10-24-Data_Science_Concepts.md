@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Data Science Knowledge Summary and Knowledge Diagram 
-subtitle:   This is a data-science concept post edit and organized by me to summarize and sort out stats, machine learning and other related topics all in one.
+title:      Data Science Knowledge Complete Summary (continuosly updated)
+subtitle:   This is a data-science concept post edit and organized by me to summarize and sort out stats, machine learning and other related topics all in one from past learning.
 date:       2018-06-1
 author:     Jiashu Miao
 header-img: 
