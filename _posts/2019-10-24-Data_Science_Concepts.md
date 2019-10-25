@@ -307,12 +307,18 @@ Feature engineering is the process of using domain knowl- edge to create feature
 - Feature Hashing Scheme: turns arbitrary features into indices in a vector or matrix
 - **Embeddings**: if using words, convert words to vectors (word embeddings)
 
-### Statistical Analysis
+##  Statistical Analysis
 Process of statistical reasoning: there is an underlying population of possible things we can potentially observe and only a small subset of them are actually sampled (ide- ally at random). Probability theory describes what prop- erties our sample should have given the properties of the population, but statistical inference allows us to deduce what the full population is like after analyzing the sample.
 
-![]()
+![](https://michaelmiaomiao.github.io/webfile/statsanalysis.png)
 
 
+### Sampling From Distributions
+#### Inverse Transform Sampling 
+- Sampling points from a given probability distribution is sometimes necessary to run simulations or whether your data fits a particular distribution. The general technique is called inverse transform sampling or Smirnov transform. First draw a random number p between [0,1]. Compute value x such that the CDF equals p: FX(x) = p. Use x as the value to be the random value drawn from the distribution described by FX (x).
+
+#### Monte Carlo Sampling 
+- In higher dimensions, correctly sampling from a given distribution becomes more tricky. Generally want to use Monte Carlo methods, which typically follow these rules: define a domain of possible inputs, generate random inputs from a probability distribution over the domain, perform a deterministic calculation, and analyze the results.
 
 ## stats power 
 ## Factor Analysis
