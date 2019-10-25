@@ -342,7 +342,10 @@ $$ Y = f(x)+c$$
 - is set of approaches for estimating this f (X ).
 
 
-
+#### Prediction: 
+once we have a good estimate f(X), we can use it to make predictions on new data. We treat fˆ as a black box, since we only care about the accuracy of the predictions, not why or how it works.
+#### Inference: 
+we want to understand the relationship between X and Y. We can no longer treat fˆ as a black box since we want to understand how Y changes with respect to X = (X1, X2, ...Xp)
 
 
 ## stats power 
