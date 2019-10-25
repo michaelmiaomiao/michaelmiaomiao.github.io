@@ -189,8 +189,11 @@ that these values are MCAR if the probability of missing data on Y is unrelated 
 #### Not missing at random (NMAR):
 -  Missing values do depend on unobserved values.
 
-*Example*: The NMAR assumption would be fulfilled if people with high income are less likely to report their income.
+*Example*:
+> The NMAR assumption would be fulfilled if people with high income are less likely to report their income.
 
+**NOTE** 
+> If MAR assumption is not fulfilled: The missing data mechanism is said to be nonignorable and, thus, it must be modeled to get good estimates of the parameters of interest. This requires a very good understanding of the missing data process
 
 
 ### Errors vs. Artifacts
@@ -199,19 +202,43 @@ that these values are MCAR if the probability of missing data on Y is unrelated 
 
 2. Artifacts: **systematic problems** that arise from the data cleaning process. these problems can be corrected but we must first discover them
 
-### Data Imputation
 
-####  **Process of dealing with missing values**. 
-- The proper meth- ods depend on the type of data we are working with. Gen- eral methods include:
+## Methods for handling missing data
+
+1. **Listwise deletion** (or complete case analysis): If a case has missing data for any of the variables,
+then simply exclude that case from the analysis. It is usually the default in statistical packages. (Briggs et al.,2003).
+
+> Advantages: It can be used with any kind of statistical analysis and no special computational methods are required.
+> 
+> Limitations: It can exclude a large fraction of the original sample.
+
+2. **Data Imputation**
+  **Process of dealing with missing values**. 
+  
+-  The proper meth- ods depend on the type of data we are working with. Gen- eral methods include:
 	- Drop all records containing missing data
 	-  Heuristic-Based: make a reasonable guess based on knowledge of the underlying domain
 	-  Mean Value: fill in missing data with the mean
 	-  Random Value
 	-  Nearest Neighbor: fill in missing data using similar
 	-  Interpolation: use a method like lin
-	-  [Check out more](https://www.bu.edu/sph/files/2014/05/Marina-tech-report.pdf)
-	-  
+	-  Marginal mean imputation:ComputethemeanofXusingthenon-missingvaluesanduseitto impute missing values of X.
+	-  Conditional Mean Imputation:
 
+> If the data are MCAR, least-squares coefficients are consistent (i.e. unbiased as the sample size increases) but they are not fully efficient (remember, efficiency is a measure of the optimality of an estimator. Essentially, a more efficient estimator, experiment or test needs fewer samples than a less efficient one to achieve a given performance). Estimating the model using weighted least squares or generalized least squares leads to better results (Graham, 2009) (Allison, 2001) and (Briggs et al., 2003).
+
+#### Limitations of imputation techniques in general
+
+They lead to an underestimation of standard errors and, thus, overestimation of test statistics. The main reason is that the imputed values are completely determined by a model applied to the observed data, in other words, they contain no error (Allison, 2001).
+
+
+
+
+
+
+
+
+## [Check out more about missing data](https://www.bu.edu/sph/files/2014/05/Marina-tech-report.pdf)
 
 ## stats power 
 
