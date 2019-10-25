@@ -234,6 +234,46 @@ They lead to an underestimation of standard errors and, thus, overestimation of 
 
 
 
+### Advanced Methods
+
+1. **Multiple Imputation** : The imputed values are draws from a distribution, so they inherently contain some variation. Thus, multiple imputation (MI) solves the limitations of single imputation by introducing an additional form of error based on variation in the parameter estimates across the imputation, which is called “between imputation error”. It replaces each missing item with two or more acceptable values, representing a distribution of possibilities (Allison, 2001).
+
+#### MI is a simulation-based procedure
+
+2. **Maximum Likelihood** We can use this method to get the variance-covariance matrix for the variables in the model based on all the available data points, and then use the obtained variance- covariance matrix to estimate our regression model (Schafer, 1997).
+
+> Compared to MI, MI requires many more decisions than ML (whether to use Markov Chain Monte Carlo (MCMC) method or the Fully Conditional Specification (FCS), how many data sets to produce, how many iterations between data sets, what prior distribution to use-the default is Jeffreys-, etc.). On the other hand, ML is simpler as you only need to specify your model of interest and indicate that you want to use ML ( SAS Institute, 2005).
+
+#### **Direct Maximum Likelihood**: 
+
+It implies the direct maximization of the multivariate normal
+ likelihood function for the assumed linear model. Advantage: It gives efficient estimates with correct standard errors. Limitations: It requires specialized software (it may be challenging and time consuming).
+ 
+####  **The Expectation-maximization (EM**) algorithm: 
+
+It provides estimates of the means and covariance matrix, which can be used to get consistent estimates of the parameters of interest. It is based on an expectation step and a maximization step, which are repeated several times until maximum likelihood estimates are obtained. It requires a large sample size and that the data are missing at random (MAR). Advantage: We can use SAS, since this is the default algorithm it employs for dealing with missing data with Maximum Likelihood. Limitations: Only can be used for linear and log-linear models
+
+### Other advanced methods
+
+#### Bayesian Simulation Method:
+
+1. **Schafer algorithms**: It uses Bayesian iterative simulation methods to impute data sets assuming MAR. Precisely, it splits the multivariate missing problem into a series of univariate problems based on the assumed distribution of the multivariate missing variables (e.g. multivariate normal for continuous variables, multinomial loglinear for categorical variables). In other words, it uses an iterative algorithm that draws samples from a sequence of univariate regressions.
+
+##### Univariate Regression
+> [check](http://homepages.inf.ed.ac.uk/bwebb/statistics/Univariate_Regression.pdf) 
+
+2. **Van Buuren algorithm** : It is a semi-parametric approach. The parametric part implies that each variable has a separate imputation model with a set of predictors that explain the missingness. The non-parametric part implies the specification of an appropriate form (e.g. linear), which depends on the kind of variables.
+
+3. **Hot-deck imputation**: This method completes a missing observation by selecting at random, with replacement, a value from those individuals who have matching observed values for other variables. In other words, a missing value is imputed based on an observed value that is closer in terms of distance.
+> [check](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n212.xml)
+
+
+
+
+
+
+
+
 
 
 
