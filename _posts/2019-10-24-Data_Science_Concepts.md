@@ -451,7 +451,6 @@ models that solve several di↵erent nested subproblems
 
 
 
-
 ## stats power 
 ## Factor Analysis
 ## Dimension Reduction
@@ -460,6 +459,15 @@ models that solve several di↵erent nested subproblems
 Each of the m features becomes a vector of length m with containing only one 1 (e.g. [r, g, b] becomes [[1,0,0],[0,1,0],[0,0,1]])
 ## **Embeddings**: 
 if using words, convert words to vectors (word embeddings)
+
+## Cheatsheet PDF
+
+<object data="https://michaelmiaomiao.github.io/webfile/ds_cheatsheet.pdf" type="application/pdf" width="600px" height="600px">
+    <embed src="https://michaelmiaomiao.github.io/webfile/ds_cheatsheet.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://michaelmiaomiao.github.io/webfile/ds_cheatsheet.pdf">Download PDF</a>.</p>
+    </embed> 
+</object>
+
 
 updating...
 
