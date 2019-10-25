@@ -267,22 +267,59 @@ It provides estimates of the means and covariance matrix, which can be used to g
 3. **Hot-deck imputation**: This method completes a missing observation by selecting at random, with replacement, a value from those individuals who have matching observed values for other variables. In other words, a missing value is imputed based on an observed value that is closer in terms of distance.
 > [check](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n212.xml)
 
+### Outlier Detection:
 
+- usually arised from data collecting
+- use sanity check to solve the problem
 
+### Miscellaneous
+**Lowercasin**g, removing non-alphanumeric, repairing, unidecode, removing unknown characters
 
-
-
-
-
-
-
-
-
+#### Notes: 
+-  ALways use the raw data to clean, don;t start from a precleaned data. 
+-  always remember to reserve the raw data intact to keep the original accuracy
+- Any type of data cleaning/analysis should be done on a copy of the raw data.
 
 ## [Check out more about missing data](https://www.bu.edu/sph/files/2014/05/Marina-tech-report.pdf)
 
-## stats power 
 
+## Feature Engineering:
+Feature engineering is the process of using domain knowl- edge to create features or input variables that help ma- chine learning algorithms perform better. Done correctly, it can help increase the predictive power of your models. Feature engineering is more of an art than science. FE is one of the most important steps in creating a good model.
+
+### Continuous Data
+
+
+- Raw Measures: data that hasn’t been transformed yet
+- Rounding: sometimes precision is noise; round to nearest integer, decimal etc..
+- Scaling: log, z-score, minmax scale
+- Binning: transforming numeric features into categorical ones (or binned) e.g. values between 1-10 belong to A, between 10-20 belong to B, etc.
+- Sampling From Distributions
+- Interactions: interactions between features: e.g. sub- traction, addition,multiplication, statistical test
+- Statistical: log/power transform (helps turn skewed distributions more normal), Box-Cox
+- Row Statistics: number of NaN’s, 0’s, negative values, max, min, etc
+- Dimensionality Reduction: using PCA, clustering, factor analysis etc
+
+
+### Discrete Data
+- Encoding: since some ML algorithms cannot work on categorical data, we need to turn categorical data into nu- merical data or vectors
+- Ordinal Values: convert each distinct features into a random number (e.g. [r,g,b] becomes [1,2,3])
+- One-Hot Encoding: each of the m features becomes a vector of length m with containing only one 1 (e.g. [r, g, b] becomes [[1,0,0],[0,1,0],[0,0,1]])
+- Feature Hashing Scheme: turns arbitrary features into indices in a vector or matrix
+- **Embeddings**: if using words, convert words to vectors (word embeddings)
+
+
+
+
+
+
+## stats power 
+## Factor Analysis
+## Dimension Reduction
+## Box Cox
+## One-Hot Encoding 
+Each of the m features becomes a vector of length m with containing only one 1 (e.g. [r, g, b] becomes [[1,0,0],[0,1,0],[0,0,1]])
+## **Embeddings**: 
+if using words, convert words to vectors (word embeddings)
 
 updating...
 
