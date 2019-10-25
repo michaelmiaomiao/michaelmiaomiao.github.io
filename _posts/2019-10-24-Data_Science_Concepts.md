@@ -104,10 +104,30 @@ $$ E(V) = \sum(s\space belongs\space to\space s) P(s) * V(s)$$
 ![](https://michaelmiaomiao.github.io/webfile/independence.png)
 
 
+### Probability Distributions
+
+#### PDF: 
+Gives the prob- ability that a rv takes on the value x: pX(x) = P(X = x)
+
+#### Cumulative Density Function (CDF) 
+Gives the prob- ability that a random variable is less than or equal to x: FX(x)=P(Xx)
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------
 
 > edited by Micahel Miao Oct 24th, 2020.
 
