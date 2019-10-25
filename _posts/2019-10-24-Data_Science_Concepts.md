@@ -307,8 +307,10 @@ Feature engineering is the process of using domain knowl- edge to create feature
 - Feature Hashing Scheme: turns arbitrary features into indices in a vector or matrix
 - **Embeddings**: if using words, convert words to vectors (word embeddings)
 
+### Statistical Analysis
+Process of statistical reasoning: there is an underlying population of possible things we can potentially observe and only a small subset of them are actually sampled (ide- ally at random). Probability theory describes what prop- erties our sample should have given the properties of the population, but statistical inference allows us to deduce what the full population is like after analyzing the sample.
 
-
+![]()
 
 
 
