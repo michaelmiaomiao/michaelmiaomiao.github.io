@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      TOP -- Data Science Knowledge Complete Summary (continuosly updated)
-subtitle:   This is a data-science concept post edit and organized by me to summarize and sort out cs, stats, machine learning and other related topics all in one from past learning.
+title:      TOP -- Data Science Knowledge Complete Summary 
+subtitle:   This is a continuosly updated data-science concept post edit and organized by me to summarize and sort out cs, stats, machine learning and other related topics all in one from past learning.
 date:       2020-10-24
 author:     Jiashu Miao
 header-img: 
