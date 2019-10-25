@@ -320,6 +320,21 @@ Process of statistical reasoning: there is an underlying population of possible 
 #### Monte Carlo Sampling 
 - In higher dimensions, correctly sampling from a given distribution becomes more tricky. Generally want to use Monte Carlo methods, which typically follow these rules: define a domain of possible inputs, generate random inputs from a probability distribution over the domain, perform a deterministic calculation, and analyze the results.
 
+## Distributions:
+#### Binomial 
+#### Normal/ Gaussian 
+#### Poisson (over time)
+#### Power Law Distribution:
+The power law (also called the scaling law) states that a relative change in one quantity results in a proportional relative change in another
+> [check](https://www.statisticshowto.datasciencecentral.com/power-law/)
+
+![]()
+
+
+
+
+
+
 ## stats power 
 ## Factor Analysis
 ## Dimension Reduction
