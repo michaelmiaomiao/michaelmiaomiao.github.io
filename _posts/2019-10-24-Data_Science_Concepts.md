@@ -162,6 +162,46 @@ Correlation coefficients r(X,Y) is a statistic that measures the degree that Y i
 
 
 
+## Data Cleaning
+
+Data Cleaning is the process of turning raw data into a clean and analyzable data set. ”Garbage in, garbage out.” Make sure garbage doesn’t get put in.
+
+
+### Missing Data
+
+#### Missing Data Influene:
+
+- shrink the sample size 
+- precision of confidence intervals is harmed
+- statistical power weakens
+- parameter estimates may be biased
+
+
+### Errors vs. Artifacts
+
+1. Errors: information that is **lost during acquisition** and can **never be recovered** e.g. power outage, crashed servers.
+
+2. Artifacts: **systematic problems** that arise from the data cleaning process. these problems can be corrected but we must first discover them
+
+### Data Imputation
+
+####  **Process of dealing with missing values**. 
+- The proper meth- ods depend on the type of data we are working with. Gen- eral methods include:
+	- Drop all records containing missing data
+	-  Heuristic-Based: make a reasonable guess based on knowledge of the underlying domain
+	-  Mean Value: fill in missing data with the mean
+	-  Random Value
+	-  Nearest Neighbor: fill in missing data using similar
+	-  Interpolation: use a method like lin
+	-  [Check out more](https://www.bu.edu/sph/files/2014/05/Marina-tech-report.pdf)
+	-  
+
+
+## stats power 
+
+
+updating...
+
 ------------------------------------------------------------
 
 > edited by Micahel Miao Oct 24th, 2020.
