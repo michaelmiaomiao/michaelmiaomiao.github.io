@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      TOP -- Data Science Knowledge Complete Summary 
-subtitle:   This is a continuosly updated data-science concept post edit and organized by me to summarize and sort out cs, stats, machine learning and other related topics all in one from past learning.
+subtitle:   This is a continuously updated data-science concept post edit and organized by me to summarize and sort out cs, stats, machine learning and other related topics all in one from past learning.
 date:       2020-10-24
 author:     Jiashu Miao
 header-img: 
@@ -30,7 +30,7 @@ Multi-disciplinary field that brings together concepts from computer science, st
 
 1. **Structured**: Data that has predefined structures. e.g. tables, spreadsheets, or relational databases.
 
-2. **Unstructured Data:**: Data with no predefined struc- ture, comes in any size or form, **CANNOT be** easily stored in tables. e.g. blobs of text, images, audio
+2. **Unstructured Data:**: Data with no predefined structure, comes in any size or form, **CANNOT be** easily stored in tables. e.g. blobs of text, images, audio
 
 3. **Quantitative Data**: Numerical. e.g. height, weight 
 
