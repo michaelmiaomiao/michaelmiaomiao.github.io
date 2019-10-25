@@ -72,11 +72,43 @@ procedure that yields one of a possible set of outcomes e.g. repeatedly tossing 
 #### Sample Space S:
 set of possible outcomes of an experi- ment e.g. if tossing a die, S = (1,2,3,4,5,6)
 
+#### Event E: 
+set of outcomes of an experiment e.g. event thatarollis5,ortheeventthatsumof2rollsis7
+
+#### Probability of an Outcome
+s or P(s): number that *satisfies 2 properties*.
+
+
+$$ 0\leq P(s) \leq 1 $$
+
+$$ \sum P(s) = 1 $$
+
+
+#### Probability of Event E:
+sum of the probabilities of the outcomes of the experiment:
+$$ p(E) = \sum Ps⇢E p(s)$$
+
+
+#### Random Variable V:
+ numerical function on the out- comes of a probability space
+
+
+#### Expected Value V:
+$$ E(V) = \sum(s\space belongs\space to\space s) P(s) * V(s)$$
+
+
+
+### Indepedence Conditional Compound
 
 
 
 
 
 
+
+
+
+
+> edited by Micahel Miao Oct 24th, 2020.
 
 
