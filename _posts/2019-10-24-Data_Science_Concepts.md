@@ -106,25 +106,38 @@ $$ E(V) = \sum(s\space belongs\space to\space s) P(s) * V(s)$$
 
 ### Probability Distributions
 
-#### PDF: 
+#### Probability Density Function (PDF): 
 Gives the prob- ability that a rv takes on the value x: pX(x) = P(X = x)
 
 #### Cumulative Density Function (CDF) 
 Gives the prob- ability that a random variable is less than or equal to x: FX(x)=P(Xx)
 
 
+**Note**: The PDF and the CDF of a given random variable contain exactly the same information.
 
 
 
 
+## Descriptive Stats:
+
+### Centrality:
+#### Arithematic Mean:
+best when character symmetric distribution without outliers: 1/n sigma X
+#### Geometric Mean: 
+Always smaller than arithematic means: useful to capture averaging ratios mean = Nth root of a1 a2 ...a3 
+
+$$ ^n\sqrt{a_{1}*}$$
+#### median
+ 
+#### mode: most frequent value
+
+$$\begin{array}\\
+x_{11} & x_{12} & x_{13} 
+& x_{21} & x_{22} & x_{23}
+\end{array}$$
 
 
-
-
-
-
-
-
+$ \Phi_{0}$
 
 
 ------------------------------------------------------------
