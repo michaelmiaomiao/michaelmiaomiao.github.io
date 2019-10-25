@@ -167,14 +167,30 @@ Correlation coefficients r(X,Y) is a statistic that measures the degree that Y i
 Data Cleaning is the process of turning raw data into a clean and analyzable data set. ”Garbage in, garbage out.” Make sure garbage doesn’t get put in.
 
 
-### Missing Data
+## Missing Data
 
-#### Missing Data Influene:
+### Missing Data Influene:
 
 - shrink the sample size 
 - precision of confidence intervals is harmed
 - statistical power weakens
 - parameter estimates may be biased
+
+### Missing data mechanisms
+
+#### Missing completely at random (MCAR): 
+- Suppose variable Y has some missing values. We will say
+that these values are MCAR if the probability of missing data on Y is unrelated to the value of Y itself or to the values of any other variable in the data set. However, it does allow for the possibility that “missingness” on Y is related to the “missingness” on some other variable X. (Briggs et al., 2003) (Allison, 2001)
+
+#### Missing at random (MAR)-a weaker assumption than MCAR
+
+- The probability of missing data on Y is unrelated to the value of Y after controlling for other variables in the analysis (say X). Formally: P(Y missing|Y,X) = P(Y missing|X) (Allison, 2001).
+
+#### Not missing at random (NMAR):
+-  Missing values do depend on unobserved values.
+
+*Example*: The NMAR assumption would be fulfilled if people with high income are less likely to report their income.
+
 
 
 ### Errors vs. Artifacts
