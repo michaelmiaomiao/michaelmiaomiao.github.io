@@ -462,7 +462,7 @@ if using words, convert words to vectors (word embeddings)
 
 ## Cheatsheet PDF
 
-<object data="https://michaelmiaomiao.github.io/webfile/ds_cheatsheet.pdf" type="application/pdf" width="600px" height="600px">
+<object data="https://michaelmiaomiao.github.io/webfile/ds_cheatsheet.pdf" type="application/pdf" width="1200px" height="800px">
     <embed src="https://michaelmiaomiao.github.io/webfile/ds_cheatsheet.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://michaelmiaomiao.github.io/webfile/ds_cheatsheet.pdf">Download PDF</a>.</p>
     </embed> 
