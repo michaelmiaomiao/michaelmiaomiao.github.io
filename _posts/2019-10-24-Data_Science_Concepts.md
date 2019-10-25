@@ -443,7 +443,7 @@ models that solve problems on a single level, no notion of subproblems
 #### Hierarchical：
 models that solve several di↵erent nested subproblems
 
-![]()
+![](https://michaelmiaomiao.github.io/webfile/model.png)
 
 
 
