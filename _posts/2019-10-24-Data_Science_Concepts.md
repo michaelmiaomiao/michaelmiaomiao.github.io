@@ -399,16 +399,44 @@ No single machine learning algorithm is better than all the others on all proble
 
 ###  Modeling- Taxonomy
 
-#### Parametric vs. Nonparametric
+### Parametric vs. Nonparametric
+
+#### Parametric:
+models that first make an assumption about a function form, or shape, of f (linear). Then fits the model. This reduces estimating f to just estimating set of parameters, but if our assumption was wrong, will lead to bad results.
+
+#### Non-Parametric:
+models that don’t make any as- sumptions about f, which allows them to fit a wider range of shapes; but may lead to overfitting
+
+### Supervised vs. Unsupervised
+#### Supervised:
+ models that fit input variables xi = (x1 , x2 , ...xn ) to a known output variables yi = (y1, y2, ...yn)
+ 
+#### Unsupervised:
+ models that take in input variables xi = (x1, x2, ...xn), but they do not have an asso- ciated output to supervise the training. The goal is understand relationships between the variables or observations.
+
+### Blackbox vs. Descriptive
+#### Blackbox
+ models that make decisions, but we do not know what happens ”under the hood” e.g. deep learning, neural networks
+
+#### Descriptive: 
+models that provide insight into why they make their decisions e.g. linear regression, de- cision trees
+
+### First-Principle vs. Data-Driven
+
+#### First-Principle:
+ models based on a prior belief of how the system under investigation works, incorpo- rates domain knowledge (ad-hoc)
+ 
+#### Data-Driven: 
+models based on observed correlations between input and output variables
+
+### Deterministic vs. Stochastic
+
+#### Deterministic: 
+models that produce a single ”pre- diction” e.g. yes or no, true or false
 
 
-
-
-
-
-
-
-
+#### Stochastic: 
+models that produce probability distributions over possible events
 
 
 
