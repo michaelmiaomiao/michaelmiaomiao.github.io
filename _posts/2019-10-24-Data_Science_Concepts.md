@@ -46,6 +46,13 @@ Multi-disciplinary field that brings together concepts from computer science, st
 - Data Sources Companies/Proprietary Data, APIs, Gov- ernment, Academic, Web Scraping/Crawling
 
 
+### Data Science Problem Types:
+
+#### **Classification**: 
+Assigning something to a discrete set of possibilities. e.g. spam or non-spam, Democrat or Repub- lican, blood type (A, B, AB, O)
+
+#### **Regression**: 
+Predicting a numerical value. e.g. some- one’s income, next year GDP, stock price
 
 
 
