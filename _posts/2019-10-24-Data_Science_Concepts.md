@@ -331,6 +331,16 @@ The power law (also called the scaling law) states that a relative change in one
 ![](https://michaelmiaomiao.github.io/webfile/distribution.png)
 
 
+## Modeling-Overview
+
+## Modeling
+- is the process of incorporating information into a tool which can forecast and make predictions. Usually, we are dealing with statistical modeling where we want to analyze relationships between variables. Formally, we want to estimate a function f (X ) such that:
+
+$$ Y = f(x)+c$$ 
+
+### Statistical learning 
+- is set of approaches for estimating this f (X ).
+
 
 
 
