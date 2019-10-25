@@ -129,13 +129,37 @@ Always smaller than arithematic means: useful to capture averaging ratios mean =
 $$ ^n\sqrt{a_{1}*a_{2}* ... * a_{n}}$$
 #### median
  
-#### mode: most frequent value
+#### mode: 
+most frequent value
 
-$$\begin{array}\\
-x_{11} & x_{12} & x_{13} 
-& x_{21} & x_{22} & x_{23}
-\end{array}$$
-$ \Phi_{0}$
+
+#### variabiliy:
+	
+- **standard deviation**: Measure the *square differenc*e between the elements and mean 看每个直的平方和平均值差多少 **REMEMBER TO /(N-1) GIVEN LARGE N FOR DEGREE OF FREEDOM**
+- Variance V = SIGMA SQAURE 2
+
+#### variance interpret: 
+Variance is an inherent part of the universe. It is impossible to obtain the same results after repeated observations of the same event due to random noise/error. Variance can be explained away by attributing to sampling or measurement errors. Other times, the variance is due to the random fluctuations of the universe.
+
+#### Correlation Analysis: 
+Correlation coefficients r(X,Y) is a statistic that measures the degree that Y is a function of X and vice versa. Correlation values range from -1 to 1, where 1 means fully correlated, -1 means negatively-correlated, and 0 means no correlation.
+
+#### Person Coeffcicent: 
+- Measures the degree of the relationship between linear related variables: R
+
+
+#### Spearman Rank Coefficient: 
+- Computed on ranks and depicts **monotonic**  ????? relationship
+
+[Check out more about Spearman's Rank Correlation Coefficient](https://geographyfieldwork.com/SpearmansRank.htm)
+
+- A correlation can easily be drawn as a scatter graph, but the most precise way to compare several pairs of data is to use a statistical test - this establishes whether the correlation is really significant or if it could have been the result of chance alone.
+- Spearman’s Rank correlation coefficient is a technique which can be used to summarise the strength and direction (negative or positive) of a relationship between two variables.
+
+**Note: Correlation does not imply causation**
+
+![](https://michaelmiaomiao.github.io/webfile/descriptive.png)
+
 
 
 ------------------------------------------------------------
