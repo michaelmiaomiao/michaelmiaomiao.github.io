@@ -347,6 +347,8 @@ once we have a good estimate f(X), we can use it to make predictions on new data
 #### Inference: 
 we want to understand the relationship between X and Y. We can no longer treat fˆ as a black box since we want to understand how Y changes with respect to X = (X1, X2, ...Xp)
 
+#### More About c
+The error term c is composed of the reducible and irreducible error, which will prevent us from ever obtaining a perfect fˆ estimate.
 
 ## stats power 
 ## Factor Analysis
