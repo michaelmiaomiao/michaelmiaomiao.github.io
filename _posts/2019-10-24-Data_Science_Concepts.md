@@ -430,14 +430,20 @@ models that provide insight into why they make their decisions e.g. linear regre
 models based on observed correlations between input and output variables
 
 ### Deterministic vs. Stochastic
-
 #### Deterministic: 
 models that produce a single ”pre- diction” e.g. yes or no, true or false
-
-
 #### Stochastic: 
 models that produce probability distributions over possible events
 
+### Flat vs. Hierarchical
+
+#### Flat: 
+models that solve problems on a single level, no notion of subproblems
+
+#### Hierarchical：
+models that solve several di↵erent nested subproblems
+
+![]()
 
 
 
