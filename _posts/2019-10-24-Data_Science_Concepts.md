@@ -445,6 +445,33 @@ models that solve several di↵erent nested subproblems
 
 ![](https://michaelmiaomiao.github.io/webfile/model.png)
 
+### Modeling- Evaluation Metrics
+
+Need to determine how good our model is. Best way to assess models is out-of-sample predictions (data points your model has never seen).
+
+
+## Classification:
+
+|              | Predicted Yes        | Predicted No         |
+|--------------|----------------------|----------------------|
+| Actual Yes   | True Positives (TP)  | False Negatives (FN) |
+| Actual No    | False Positives (FP) | True Negatives (TN)  |
+
+
+#### Accuracy:
+Ratio of correct predictions over total predictions. Misleading when class sizes are substantially different.
+
+Accuracy = (TP+TN) / (TP+FN+FP+TN)
+
+
+#### Precision: 
+How often the classifier is correct when it predicts positive: precision = TP / TP+FP
+
+
+
+
+
+
 
 
 
