@@ -467,9 +467,12 @@ Accuracy = (TP+TN) / (TP+FN+FP+TN)
 #### Precision: 
 How often the classifier is correct when it predicts positive: precision = TP / TP+FP
 
-### fisher exact test
+### Fisher exact test
 - This test for testing the null of independence of rows and columns in a contingency table with fixed marginals.
 - This test uses Chi-squre
+- The chi-square uses a procedure that assumes a fairly large sample size. With small sample sizes the chi-square test generates falsely low p-values that exaggerate the significance of findings. Specifically, when the expected number of observations under the null hypothesis in any cell of the 2x2 table is less than 5, the chi-square test exaggerates significance. When this occurs, Fisher's Exact Test is preferred.
+
+
 
 
 
