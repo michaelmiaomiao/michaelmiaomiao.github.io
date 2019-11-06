@@ -467,7 +467,9 @@ Accuracy = (TP+TN) / (TP+FN+FP+TN)
 #### Precision: 
 How often the classifier is correct when it predicts positive: precision = TP / TP+FP
 
-
+### fisher exact test
+- This test for testing the null of independence of rows and columns in a contingency table with fixed marginals.
+- This test uses Chi-squre
 
 
 
