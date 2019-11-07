@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Data Mining & Machine Learning applied in Predicitve Analysis 
+title:      Data Mining & Machine Learning applied in Predictive Analysis 
 subtitle:   Exploring out the most influential variables in predicting the affordability among 79 potentially variables and the most effective model by applying different classification methods including Logistic Regression, K-Nearest Neighbors Method, and Random Forest
 date:       2018-12-13
 author:     Jiashu Miao
