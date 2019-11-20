@@ -32,9 +32,21 @@ tags:
 
 ### Work Experience
 
+#### sample 1:
 ![](https://michaelmiaomiao.github.io/webfile/R3.jpg)
+-------------------
+
+#### sample 2:
 ![](https://michaelmiaomiao.github.io/webfile/R2.jpg)
+-------------------
+
+#### sample 3:
 ![](https://michaelmiaomiao.github.io/webfile/R4.jpg)
+-------------------
+
+
+
+
 
 
 
