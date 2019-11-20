@@ -31,7 +31,10 @@ tags:
 ![](https://michaelmiaomiao.github.io/webfile/R1.jpg)
 
 ### Work Experience
-- 
+
+![](https://michaelmiaomiao.github.io/webfile/R3.jpg)
+![](https://michaelmiaomiao.github.io/webfile/R2.jpg)
+![](https://michaelmiaomiao.github.io/webfile/R4.jpg)
 
 
 
