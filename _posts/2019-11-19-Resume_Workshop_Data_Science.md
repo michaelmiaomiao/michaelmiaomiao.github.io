@@ -13,3 +13,24 @@ tags:
     - Panel Talk
     
 ---
+
+
+# Structure 
+
+### Name / Contact 
+- Email, Phone No., (Address,)
+- LinkedIn, Website, Github, Projects
+
+### Education
+- School, Major/Minor, GPA, Duration, 
+- Related Coursework, (School Involvements)
+
+### Skills
+- Programming, Tools, Specialtiy
+- ![](https://michaelmiaomiao.github.io/webfile/R1.jpg)
+
+### Work Experience
+- 
+
+
+
