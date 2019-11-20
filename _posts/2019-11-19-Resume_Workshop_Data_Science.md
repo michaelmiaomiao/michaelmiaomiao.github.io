@@ -27,7 +27,8 @@ tags:
 
 ### Skills
 - Programming, Tools, Specialtiy
-- ![](https://michaelmiaomiao.github.io/webfile/R1.jpg)
+
+![](https://michaelmiaomiao.github.io/webfile/R1.jpg)
 
 ### Work Experience
 - 
