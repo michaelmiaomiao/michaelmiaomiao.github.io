@@ -67,8 +67,16 @@ tags:
 
 -----------------------------
 
-# !!Tips 
-- Name: **Large Font, Bold**, Stand out 
-- 
+# !!！Tips ：）
 
+- Name: **Large Font, Bold**, Stand out 
+- Contact: Hyperlink , Logos
+![](https://michaelmiaomiao.github.io/webfile/R8.jpg)
+- Skills: Order, Category 
+- Education: GPA, Reality
+- ... 
+
+> 
+> 
+> Edited by Jiashu Miao, Ziming Yang on 11/20/2019
 
