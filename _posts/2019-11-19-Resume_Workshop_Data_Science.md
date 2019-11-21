@@ -44,9 +44,24 @@ tags:
 ![](https://michaelmiaomiao.github.io/webfile/R4.jpg)
 -------------------
 
+# Projects/Research
+
+- Name, Toosl, Brief Description
+- Reflect interests, Comlimentary to Work Experience.
+- Case/Competitions/Class/Datathon/Hackathon/
 
 
+#### sample 1:
+![](https://michaelmiaomiao.github.io/webfile/R5.jpg)
+-------------------
 
+#### sample 2:
+![](https://michaelmiaomiao.github.io/webfile/R6.jpg)
+-------------------
+
+#### sample 3:
+![](https://michaelmiaomiao.github.io/webfile/R7.jpg)
+-------------------
 
 
 
