@@ -65,5 +65,10 @@ tags:
 
 # Activities/Leadership/Involments/Honors (Optional)
 
+-----------------------------
+
+# !!Tips 
+- Name: **Large Font, Bold**, Stand out 
+- 
 
 
