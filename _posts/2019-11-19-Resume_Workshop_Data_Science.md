@@ -75,6 +75,7 @@ tags:
 - Skills: Order, Category 
 - Education: GPA, Reality
 - Template: [creddle.io](http://creddle.io)
+- Resource: [https://github.com/firmai/data-science-career](https://github.com/firmai/data-science-career)
 - ... 
 
 > 
