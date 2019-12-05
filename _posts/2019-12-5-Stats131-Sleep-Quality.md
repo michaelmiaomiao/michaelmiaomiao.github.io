@@ -1,3 +1,20 @@
+---
+layout:     post
+title:      Sleep Quality Analysis using Python 
+subtitle:   final project demo for python data analysis course fall 19 at UCLA.
+date:       2019-11-20
+author:     Jiashu Miao; Yuyan; Summer Zhang; Wilbur Zhou
+header-img: 
+catalog: true
+tags:
+
+    - Python
+    - Jupyter
+    - Data Exploration
+    - Sleep Quality
+    
+---
+
 # 1. Background Information
 
 ## 1.1 Data source
