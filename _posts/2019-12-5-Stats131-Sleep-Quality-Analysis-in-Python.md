@@ -1705,4 +1705,10 @@ We also built a decision tree with cross-validation accuracy of 61.23%.
 - This report is the final project for UCLA 131 Data Analysis with Python Course Fall 19
 - The professor gives full credit to this report and is used as part his future class demo
 - The PDF version of this report could be obtained from [HERE](http://michaelmiaomiao.github.io/webfile/Python131.pdf)
+- Or view:
 
+<object data="https://michaelmiaomiao.github.io/webfile/Python131.pdf" type="application/pdf" width="800px" height="1200px">
+    <embed src="https://michaelmiaomiao.github.io/webfile/Python131.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://michaelmiaomiao.github.io/webfile/Python131.pdf">Download PDF</a>.</p>
+    </embed> 
+</object>
