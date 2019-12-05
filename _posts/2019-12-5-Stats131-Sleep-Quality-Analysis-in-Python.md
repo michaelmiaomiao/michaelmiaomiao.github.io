@@ -291,7 +291,7 @@ plt.xlabel('Sleep Quality');
 ```
 
 
-![png](output_29_0.png)
+![png](/img/output_29_0.png)
 
 
 ### 2.2.2 Average Hours in Bed Per Day
