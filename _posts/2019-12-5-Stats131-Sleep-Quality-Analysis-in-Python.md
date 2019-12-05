@@ -332,7 +332,7 @@ plt.xlabel('Average Hours in Bed Per Day');
 ```
 
 
-![png](output_33_0.png)
+![png](/img/output_33_0.png)
 
 
 **Outliers**  
@@ -399,7 +399,7 @@ plt.title('Sleep Quality of People with Very High Hours in Bed', fontsize = 14);
 
 
 
-![png](output_35_1.png)
+![png](/img/output_35_1.png)
 
 
 ### 2.2.3 Average Actual Sleep Per Day in Hours
@@ -440,7 +440,7 @@ plt.xlabel('Average Actual Sleep Per Day');
 ```
 
 
-![png](output_39_0.png)
+![png](/img/output_39_0.png)
 
 
 **Outliers**  
@@ -503,7 +503,7 @@ plt.title('Sleep Quality of People with Very Much Actual Sleep', fontsize = 14);
 
 
 
-![png](output_41_1.png)
+![png](/img/output_41_1.png)
 
 
 ### 2.2.4 Sleep Efficiency
@@ -544,7 +544,7 @@ plt.xlabel('Sleep Efficiency');
 ```
 
 
-![png](output_45_0.png)
+![png](/img/output_45_0.png)
 
 
 **Outliers**  
@@ -582,7 +582,7 @@ plt.title('Sleep Quality of People with Very Low Sleep Efficiency', fontsize = 1
 
 
 
-![png](output_47_1.png)
+![png](/img/output_47_1.png)
 
 
 ### 2.2.5 Overall Discussion on Outliers  
@@ -608,7 +608,7 @@ plt.legend(loc="upper left");
 ```
 
 
-![png](output_52_0.png)
+![png](/img/output_52_0.png)
 
 
 ### 2.3.2 Average Hours in Bed & Sleep Quality
@@ -630,7 +630,7 @@ plt.legend(loc="upper left");
 ```
 
 
-![png](output_55_0.png)
+![png](/img/output_55_0.png)
 
 
 ### 2.3.3 Average Acutal Sleep & Sleep Quality
@@ -654,7 +654,7 @@ plt.xlabel('Average Actual Sleep');
 ```
 
 
-![png](output_58_0.png)
+![png](/img/output_58_0.png)
 
 
 ### 2.3.4 Time Go to Bed & Sleep Efficiency
@@ -716,7 +716,7 @@ plt.xlabel('Sleep Efficiency');
 
 
 
-![png](output_61_1.png)
+![png](/img/output_61_1.png)
 
 
 ### 2.3.5 Time Go to Bed & Sleep Quality
@@ -767,7 +767,7 @@ plt.show();
 ```
 
 
-![png](output_64_0.png)
+![png](/img/output_64_0.png)
 
 
 ### 2.3.6 Sleep Disorders & Sleep Quality
@@ -797,7 +797,7 @@ plt.tight_layout(w_pad = 4);
 ```
 
 
-![png](output_67_0.png)
+![png](/img/output_67_0.png)
 
 
 When we focused on people who have been diagnosed with sleep disorder, their sleep quality is relatively lower than people without disorders according to the plot below. 
@@ -812,7 +812,7 @@ plt.xlabel('Sleep Disorder');
 ```
 
 
-![png](output_69_0.png)
+![png](/img/output_69_0.png)
 
 
 ### 2.3.7 Other Factors Correlated with Sleep Quality
@@ -854,7 +854,7 @@ plt.title('Correlation Between Variables', size = 16);
 
 
 
-![png](output_72_1.png)
+![png](/img/output_72_1.png)
 
 
 **Very Sensitive Participants**  
@@ -873,7 +873,7 @@ plt.xlabel('Sensitive to Environmental Factors');
 ```
 
 
-![png](output_74_0.png)
+![png](/img/output_74_0.png)
 
 
 # 3. Modeling
@@ -928,7 +928,7 @@ plt.show();
 ```
 
 
-![png](output_81_0.png)
+![png](/img/output_81_0.png)
 
 
 Hence, we investigated the collinearity issue using **Variable Inflation Factor (VIF)**, and we found that sleep efficiency, average hours in bed, and average acutal sleep are highly collinear with VIF >> 5. 
@@ -1475,7 +1475,7 @@ plt.show();
 ```
 
 
-![png](output_94_0.png)
+![png](/img/output_94_0.png)
 
 
 According to the statistics from the best subset selection, we went one step further to fit a model with only 10 variables.  
@@ -1595,7 +1595,7 @@ fig = sm.graphics.plot_partregress_grid(model4, fig=fig)
 ```
 
 
-![png](output_98_0.png)
+![png](/img/output_98_0.png)
 
 
 ## 3.2 Decision Tree
@@ -1682,7 +1682,7 @@ Image(graph.create_png())
 
 
 
-![png](output_108_1.png)
+![png](/img/output_108_1.png)
 
 
 
