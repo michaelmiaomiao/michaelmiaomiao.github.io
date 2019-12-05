@@ -1700,3 +1700,9 @@ We also built a decision tree with cross-validation accuracy of 61.23%.
 
 2. Our response variable, sleep quality is measured from a Likert scale. Thus, it is not a very precise measure and exposed to subjectivity. If possible, using clinical measurements, such as electro-oculography (EOG), could be more precise and objective. 
 
+# 6. Extra Notes
+
+- This report is the final project for UCLA 131 Data Analysis with Python Course Fall 19
+- The professor gives full credit to this report and is used as part his future class demo
+- The PDF version of this report could be obtained from [](http://michaelmiaomiao.github.io/webfile/Python131.pdf)
+
