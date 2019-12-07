@@ -1,10 +1,18 @@
 ---
-title: "112 Independent Data Analysis Work -- Sleep Quality"
-author: "JIASHU MIAO"
-date: "11/24/2019"
-output:
-  pdf_document: default
-  html_document: default
+layout:     post
+title:      Sleep Quality Analysis using R
+subtitle:   Follow Up previous Python project by re-writting in R.
+date:       2019-11-21
+author:     Jiashu Miao
+header-img: 
+catalog: true
+tags:
+
+    - R
+    - Jupyter
+    - Data Exploration
+    - Sleep Quality
+    
 ---
 
 ## Background Information
