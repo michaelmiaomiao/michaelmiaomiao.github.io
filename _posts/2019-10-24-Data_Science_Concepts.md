@@ -484,7 +484,12 @@ How often the classifier is correct when it predicts positive: precision = TP / 
 
 
 ## stats power 
+
+- The power of a binary hypothesis test is the probability that the test rejects the null hypothesis when a specific alternative hypothesis is true. The statistical power ranges from 0 to 1, and as statistical power increases, the probability of making a type II error decreases.
+
+
 ## Factor Analysis
+## stats power 
 ## Dimension Reduction
 ## Box Cox
 ## One-Hot Encoding 
@@ -493,6 +498,9 @@ Each of the m features becomes a vector of length m with containing only one 1 (
 if using words, convert words to vectors (word embeddings)
 
 ## Cheatsheet PDF
+
+
+> eidted by Michael Miao 12/11/2019
 
 <object data="https://michaelmiaomiao.github.io/webfile/ds_cheatsheet.pdf" type="application/pdf" width="1200px" height="800px">
     <embed src="https://michaelmiaomiao.github.io/webfile/ds_cheatsheet.pdf">
