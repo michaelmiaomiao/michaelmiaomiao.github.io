@@ -1,4 +1,5 @@
 
+
 ---
 layout:     post
 title:      Text Analytics and Neural Network for Exploring Influential Factors in College 
