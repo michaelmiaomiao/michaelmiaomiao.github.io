@@ -1,9 +1,10 @@
 
 ---
+
 layout:     post
 title:      Sleep Quality Analysis using R
-subtitle:   Follow Up previous Python project by re-writting in R.
-date:       2019-11-21
+subtitle:   Follow Up previous Python project by re-writting in R
+date:       2019-12-21
 author:     Jiashu Miao
 header-img: 
 catalog: true
