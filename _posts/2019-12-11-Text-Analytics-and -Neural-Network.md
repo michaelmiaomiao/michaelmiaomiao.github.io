@@ -2,18 +2,18 @@
 
 ---
 layout:     post
-title:      Text Analytics and Neural Network for Exploring Influential Factors in College 
-subtitle:   Predicting the background of students based on their comments for college life
-date:       2019-12-11
+title:      Sleep Quality Analysis using R
+subtitle:   Follow Up previous Python project by re-writting in R.
+date:       2019-11-21
 author:     Jiashu Miao
 header-img: 
 catalog: true
 tags:
 
     - R
-    - Text Analysis
-    - Text Mining
-    - Neural Network
+    - Jupyter
+    - Data Exploration
+    - Sleep Quality
     
 ---
 
