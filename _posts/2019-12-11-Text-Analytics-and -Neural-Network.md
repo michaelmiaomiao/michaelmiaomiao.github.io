@@ -2,7 +2,7 @@
 ---
 layout:     post
 title:      Text Analytics and Neural Network for Exploring Influential Factors in College 
-subtitle:   
+subtitle:   Predicting the background of students based on their comments for college life
 date:       2019-12-11
 author:     Jiashu Miao
 header-img: 
