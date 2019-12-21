@@ -2,7 +2,7 @@
 layout:     post
 title:      TOP -- Data Science Knowledge Complete Summary 
 subtitle:   This is a continuously updated data-science concept post edit and organized by me to summarize and sort out cs, stats, machine learning and other related topics all in one from past learning.
-date:       2020-10-24
+date:       2022-10-24
 author:     Jiashu Miao
 header-img: 
 catalog: true
@@ -121,6 +121,11 @@ Gives the prob- ability that a random variable is less than or equal to x: FX(x)
 ## Descriptive Stats:
 
 ### Centrality:
+
+#### Central limit Theorem:
+
+In probability theory, the central limit theorem establishes that, in some situations, when independent random variables are added, their properly normalized sum tends toward a normal distribution even if the original variables themselves are not normally distributed
+
 #### Arithematic Mean:
 best when character symmetric distribution without outliers: 1/n sigma X
 #### Geometric Mean: 
