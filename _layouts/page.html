@@ -80,7 +80,19 @@ layout: default
                 col-sm-12
                 col-xs-12
                 sidebar-container
-            ">
+            ">  
+                <!-- Short About -->
+                <section class="visible-md visible-lg">
+                    <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
+                    <div class="short-about">
+                        {% if site.sidebar-avatar %}
+                            <a href="{{ site.baseurl }}/about">
+                                <img src="{{site.sidebar-avatar}}"/>
+                            </a>
+                        {% endif %}
+                        {% if site.sidebar-about-description %}
+                            <p>{{site.sidebar-about-description}}</p>
+                        {% endif %}
                 <!-- Featured Tags -->
                 {% if site.featured-tags %}
                 <section>
@@ -97,20 +109,7 @@ layout: default
                     </div>
                 </section>
                 {% endif %}
-
-                <!-- Short About -->
-                <section class="visible-md visible-lg">
-                    <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
-                    <div class="short-about">
-                        {% if site.sidebar-avatar %}
-                            <a href="{{ site.baseurl }}/about">
-                                <img src="{{site.sidebar-avatar}}"/>
-                            </a>
-                        {% endif %}
-                        {% if site.sidebar-about-description %}
-                            <p>{{site.sidebar-about-description}}</p>
-                        {% endif %}
-                        <!-- SNS Link -->
+		<!-- SNS Link -->
                         <ul class="list-inline">
                             {% if site.RSS %}
                             <li>
