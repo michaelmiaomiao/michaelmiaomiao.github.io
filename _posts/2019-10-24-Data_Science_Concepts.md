@@ -477,9 +477,17 @@ How often the classifier is correct when it predicts positive: precision = TP / 
 - This test uses Chi-squre
 - The chi-square uses a procedure that assumes a fairly large sample size. With small sample sizes the chi-square test generates falsely low p-values that exaggerate the significance of findings. Specifically, when the expected number of observations under the null hypothesis in any cell of the 2x2 table is less than 5, the chi-square test exaggerates significance. When this occurs, Fisher's Exact Test is preferred.
 
+## Model Selection
 
+### Cross Validation
+#### K-Fold Cross Validation
 
+- One of the most common technique for model evaluation and model selection in machine learning practice is K-fold cross validation. The main idea behind cross-validation is that each observation in our dataset has the opportunity of being tested. K-fold cross-validation is a special case of cross-validation where we iterate over a dataset set k times. In each round, we split the dataset into  𝑘 parts: one part is used for validation, and the remaining  𝑘−1 parts are merged into a training subset for model evaluation. The figure below illustrates the process of 5-fold cross-validation:
 
+![](http://ethen8181.github.io/machine-learning/model_selection/img/kfolds.png)
+
+- We use a learning algorithm with fixed hyperparameter settings to fit models to the training folds in each iteration. In 5-fold cross-validation, this procedure will result in 5 models fitted on distinct yet partly overlapping training sets and evaluated on non-overlapping validation sets. Eventually, we compute the cross-validation performance as the arithmetic mean over the  𝑘 performance estimates from the validation sets. The main benefit behind this approach versus a simple train/test split is to reduce the pessimistic bias by using more training data in contrast to setting aside a relatively large portion of the dataset as test data.
+The following section shows a vanilla implementation of how to generate a K-fold data split.
 
 
 
