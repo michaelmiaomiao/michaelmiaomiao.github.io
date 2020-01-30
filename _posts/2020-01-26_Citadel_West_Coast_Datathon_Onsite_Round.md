@@ -15,6 +15,5 @@ tags:
     - Regression
     - Competition
     - Geolocation
-    
 ---
 
