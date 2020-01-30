@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      Citadel West Coast Datathon 2020 -- Onsite Round Presentation 
