@@ -76,7 +76,7 @@ Here we use **loop and skip, nrows**, to load data by chucks and then row-bind t
 > Sometimes when there are too many loops, R will give warnings on memory limit. You may, for example, seperate one loop to three loops, excute each loop and then row-bind the three datasets into one by `rbind()` or `rbindlist()`. 
 
 In my case, it takes 20 mins for Jupyter R-kernel to complete
-![](https://michaelmiaomiao.github.io/webfile/run_time.png)
+![](hhttps://raw.githubusercontent.com/michaelmiaomiao/webfile/master/run_time.png)
 
 ## Testing and Conclusion
 
@@ -84,7 +84,7 @@ After saving my selected data columns with all thier rows in a new CSV files usi
 
 The following shows the dimension and run-time for data loading.
 
-![](https://michaelmiaomiao.github.io/webfile/dim_check.png)
+![](hhttps://raw.githubusercontent.com/michaelmiaomiao/webfile/master/dim_check.png)
 
 The `fread()` is tested to be an outstanding way in R to load data exceeding 30GB, which is normally believed impossible to achieve in R in such short time!!!
 
