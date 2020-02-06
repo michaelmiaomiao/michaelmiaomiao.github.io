@@ -91,3 +91,4 @@ The `fread()` is tested to be an outstanding way in R to load data exceeding 30G
 > > Jiashu Miao edited on Feb, 5th, 2020.
 
 
+> > Thanks for support and help from professor Eran Halperin and mentor Ph.D studetns at UCLA Bigdata Genomics Lab
