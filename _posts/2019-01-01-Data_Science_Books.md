@@ -27,3 +27,5 @@ with Applications in R](https://michaelmiaomiao.github.io/webfile/book/1.pdf)
 Rigorous Mathematical Analysis](https://michaelmiaomiao.github.io/webfile/book/2.pdf)
 
 - [R and Data Mining: Examples and Case Studies](https://michaelmiaomiao.github.io/webfile/book/3.pdf)
+
+- [R and Data Mining: Examples and Case Studies](https://michaelmiaomiao.github.io/webfile/book/4.pdf)
