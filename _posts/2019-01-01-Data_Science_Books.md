@@ -22,3 +22,6 @@ tags:
 
 - [An Introduction to Statistical Learning
 with Applications in R](https://michaelmiaomiao.github.io/webfile/1.pdf)
+
+- [Introduction to Machine Learning with R
+Rigorous Mathematical Analysis](https://michaelmiaomiao.github.io/webfile/2.pdf)
