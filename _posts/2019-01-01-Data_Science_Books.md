@@ -28,6 +28,7 @@ Rigorous Mathematical Analysis](https://michaelmiaomiao.github.io/webfile/book/2
 
 - [R and Data Mining: Examples and Case Studies](https://michaelmiaomiao.github.io/webfile/book/3.pdf)
 
-- [R and Data Mining: Examples and Case Studies](https://michaelmiaomiao.github.io/webfile/book/4.pdf)
+- [Practical Machine Learning
+with H2O - Powerful, Scalable Techniques for Deep Learning and AI](https://michaelmiaomiao.github.io/webfile/book/4.pdf)
 
 - [PostgreSQL 11 Administration Cookbook](https://michaelmiaomiao.github.io/webfile/book/5.pdf)
