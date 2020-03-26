@@ -17,3 +17,8 @@ tags:
 ---
 
 # Books
+
+------------------------------------
+
+- [An Introduction to Statistical Learning
+with Applications in R](https://michaelmiaomiao.github.io/webfile/1.pdf)
