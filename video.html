@@ -20,6 +20,231 @@ header-img: "img/tag-bg.jpg"
 </header>
 
 <!-- Main Content -->
-<div>
-<img src="https://michaelmiaomiao.github.io/webfile/mario.mp4">
+
+
+<!-- Language Selector -->
+<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 中文 Chinese </option>
+    <option value="1"> 英文 English </option>
+</select> -->
+
+<!-- Chinese Version -->
+<!--<div class="zh post-container">
+
+  
+    <blockquote><p>冰冻三尺 非一日之寒<br>
+    积土成山 非斯须之作</p></blockquote>
+
+    <p>Hey，我是<strong>柏荧(BY)</strong>，一只iOS程序猿，现在厦门工作。</p>
+
+    <p>工作、学习之余，我还是一个健身爱好者，同时也非常喜欢拳击。</p>
+
+    <p>这是我的利用 <a href="https://pages.github.com/">GitHub Pages</a> 与 <a href="http://jekyll.com.cn/">Jekyll</a> 搭建的 个人博客。我在GitHub主页<a href="https://github.com/qiubaiying">👉GitHub·BY</a> 与 简书主页<a href="https://http://www.jianshu.com/u/e71990ada2fd">👉BY</a>。如果有什么问题，欢迎提出探讨~</p>
+
+    <p></p>
+    
+    <h5>Talks</h5>
+
+    <ul>
+        <li><a href="https://github.com">GitHub</a></li>
+        <li><a href="http://jekyll.com.cn/">jekyll</a></li>
+        <li><a href="http://huangxuan.me/">Hux</a></li> 
+        <li><a href="https://analytics.google.com/analytics">Google Analytics</a></li>
+    </ul>
+</div>-->
+
+<!-- English Version -->
+<div class="en post-container">
+    
+    
+    <p> <img src="https://michaelmiaomiao.github.io/webfile/mario.mp4"> </p>
+    
+    <h5>Talks</h5>
+
+    <ul>
+    <li><a href="https://github.com">GitHub</a></li>
+    <li><a href="http://jekyll.com.cn/">jekyll</a></li>
+    <li><a href="https://pages.github.com/">GitHub Pages</a></li>
+    <li><a href="https://michaelmiaomiao.github.io">JMichael</a></li>
+    </ul>
+
+<script src="https://unpkg.com/jupyter-js-widgets@~1.0.0/dist/embed.js"></script>
+<script type="application/vnd.jupyter-embedded-widgets">
+{
+    "0b2839e97da34d4db1de1e0a58acb485": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "637439f04a6c45f79ebe95a520abd86e": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "layout": "IPY_MODEL_0b2839e97da34d4db1de1e0a58acb485",
+            "description": "Happy?",
+            "max": 200,
+            "min": 100,
+            "value": 100
+        },
+        "views": []
+    },
+    "9f4fdcbc76764609b3095d1681a1a044": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {},
+        "views": []
+    },
+    "b5e0072bfc0246feb7117b83a8fbc94b": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "layout": "IPY_MODEL_9f4fdcbc76764609b3095d1681a1a044",
+            "description": "Sad?",
+            "value": 40
+        },
+        "views": []
+    },
+    "aa4288be316142248e0be51c0bb107aa": {
+        "model_name": "DirectionalLinkModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "target": [
+                "IPY_MODEL_b5e0072bfc0246feb7117b83a8fbc94b",
+                "max"
+            ],
+            "source": [
+                "IPY_MODEL_637439f04a6c45f79ebe95a520abd86e",
+                "value"
+            ]
+        },
+        "views": []
+    },
+    "b0c77cc378bc4cfca1357e13b049b253": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "flex_flow": "column",
+            "display": "flex"
+        },
+        "views": []
+    },
+    "bf7d86e0469c4ec8aab2228a438e7120": {
+        "model_name": "BoxModel",
+        "model_module": "jupyter-js-widgets",
+        "state": {
+            "children": [
+                "IPY_MODEL_637439f04a6c45f79ebe95a520abd86e",
+                "IPY_MODEL_b5e0072bfc0246feb7117b83a8fbc94b"
+            ],
+            "layout": "IPY_MODEL_b0c77cc378bc4cfca1357e13b049b253"
+        },
+        "views": [
+            {}
+        ]
+    }
+}
+
+</script>
+
+
+</div> 
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h4>Mindmap on required data science skills </h4>
+<img src="http://i.imgur.com/FxsL3b8.png" alt="Girl in a jacket" with="500" height="400">
+
+</body>
+</html>
+
+<!-- Handle Language Change -->
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+
+    // handle render
+    function _render(){
+        var _hash = window.location.hash;
+        // en
+        if(_hash == "#en"){
+            $select.selectedIndex = 1;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+        // zh by default
+        }else{
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 0;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
+
+    // handle select change
+    function onLanChange(index){
+        if(index == 0){
+            window.location.hash = "#zh"
+        }else{
+            window.location.hash = "#en"
+        }
+    }
+
+    // init
+    _render();
+</script>
+
+
+<!-- Gitalk 评论 start  -->
+{% if site.gitalk.enable %}
+<!-- Gitalk link  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+    <script type="text/javascript">
+    var gitalk = new Gitalk({
+    clientID: '{{site.gitalk.clientID}}',
+    clientSecret: '{{site.gitalk.clientSecret}}',
+    repo: '{{site.gitalk.repo}}',
+    owner: '{{site.gitalk.owner}}',
+    admin: ['{{site.gitalk.admin}}'],
+    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
+    id: 'about',
+    });
+    gitalk.render('gitalk-container');
+</script>
+{% endif %}
+<!-- Gitalk end -->
+
+ <!-- disqus 评论框 start  -->
+{% if site.disqus.enable %}
+
+<div class="comment">
+    <div id="disqus_thread" class="disqus-thread">
+    </div>
 </div>
+<!-- disqus 评论框 end -->
+
+<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = "{{site.disqus.username}}";
+    var disqus_identifier = "{{site.disqus.username}}/{{page.url}}";
+    var disqus_url = "{{site.url}}{{page.url}}";
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<!-- disqus 公共JS代码 end -->
+{% endif %}
+
