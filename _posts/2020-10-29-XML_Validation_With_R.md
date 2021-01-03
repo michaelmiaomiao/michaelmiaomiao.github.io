@@ -5,6 +5,7 @@ subtitle:   How does R enable automatic XML files validation and error log colle
 date:       2020-10-29
 author:     Jiashu Miao
 header-img: 
+header-style: text
 catalog: true
 tags:
 
