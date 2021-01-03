@@ -7,7 +7,6 @@ author:     Jiashu Miao
 header-img: 
 header-style: text
 catalog: true
-mathjax: true
 tags:
 
     - R
