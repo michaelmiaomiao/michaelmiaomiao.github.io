@@ -61,7 +61,9 @@ two <- mtcars[11:14, ]
 list(one,two)
 # You can supply data frames as arguments:
 
-
+```cpp
+# testing
+```
 # The contents of lists is automatically spliced:
 identical(bind_rows(one, two),bind_rows(list(one, two)))
 
